@@ -1,6 +1,11 @@
-cosseron2007_liens.txt
+cosseron2007_liens.txt, Pumain-etal2008_liens.txt
 LNUM : numéro de ligne
 ENTREE : entrée du dictionnaire
 ORIGINE	: entrée recodée
 RENVOI : renvoi du dctionnaire
 DESTINATION : renvoi recodé
+
+Pumain-etal2006_auteurices-sommets.txt
+LNUM : numéro de ligne
+ENTREE : entrée du dictionnaire
+NOM_Prenom : NOM_Prénomde l'auteurice
