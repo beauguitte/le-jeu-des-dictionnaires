@@ -1,0 +1,299 @@
+LNUM	ENTREE	ORIGINE	RENVOI	DESTINATION
+L001	AC!	AC!	Christophe Aguiton	Aguiton
+L002	action directe	action directe	Anarchisme	anarchisme
+L003	action directe	action directe	Action directe (organisation)	Action directe (orga)
+L004	action directe	action directe	Gauche prolétarienne	GP
+L005	action directe	action directe	Maoïsme	maoïsme
+L006	Action directe (organisation)	Action directe (orga)	Autonome (mouvement)	autonome
+L007	Christophe Aguiton	Aguiton	ATTAC	ATTAC
+L008	Christophe Aguiton	Aguiton	Forum social mondial	Forum social mondial
+L009	Christophe Aguiton	Aguiton	LCR	LCR
+L010	altermondialisme	altermondialisme	ATTAC	ATTAC
+L011	altermondialisme	altermondialisme	Black Blocks	black blocks
+L012	altermondialisme	altermondialisme	Bernard Cassen	Cassen
+L013	altermondialisme	altermondialisme	Forum social mondial	Forum social mondial
+L014	altermondialisme	altermondialisme	John Holloway	Holloway
+L015	altermondialisme	altermondialisme	Naomi Klein	Klein
+L016	altermondialisme	altermondialisme	le Monde diplomatique	Monde diplo
+L017	altermondialisme	altermondialisme	Toni Negri	Negri
+L018	les Alternatifs	les Alternatifs	Altermondialisme	altermondialisme
+L019	Alternative libertaire	Alternative libertaire	Anarchisme	anarchisme
+L020	amnistie	amnistie	NA	NA
+L021	anarchisme	anarchisme	Action directe	action directe
+L022	anarchisme	anarchisme	Alternative libertaire	Alternative libertaire
+L023	anarchisme	anarchisme	Antifascisme	antifascisme
+L024	anarchisme	anarchisme	Black Blocks	black blocks
+L025	anarchisme	anarchisme	No Pasaran	No Pasaran
+L026	anarchisme	anarchisme	Organisation communiste libertaire	OCL
+L027	anarchisme	anarchisme	Scalp	SCALP
+L028	anarcho-syndicalisme	anarcho-syndicalisme	Action directe	action directe
+L029	antiaméricanisme	antiaméricanisme	NA	NA
+L030	antifascisme	antifascisme	No Pasaran	No Pasaran
+L031	antifascisme	antifascisme	Ras l'front	Ras l'front
+L032	antifascisme	antifascisme	Scalp	SCALP
+L033	anti-impérialisme	anti-impérialisme	NA	NA
+L034	antilibéralisme et anticapitalisme	antilibéralisme	NA	NA
+L035	antiracisme	antiracisme	Antisémitisme	antisémitisme
+L036	antiracisme	antiracisme	Antisionisme	antisionisme
+L037	antiracisme	antiracisme	Indigènes de la République	Indigènes de la République
+L038	antisémitisme	antisémitisme	Antiracisme	antiracisme
+L039	antisémitisme	antisémitisme	Antisionisme	antisionisme
+L040	antisionisme/critique d'Israël	antisionisme	Antisémitisme	antisémitisme
+L041	apartheid	apartheid	Banlieues (crise des)	banlieues
+L042	apartheid	apartheid	Ethnicisation de la question sociale	ethnicisation
+L043	apartheid	apartheid	Europe	Europe
+L044	apartheid	apartheid	Immigration	immigration
+L045	apartheid	apartheid	Indigènes de la République	Indigènes de la République
+L046	ATTAC	ATTAC	Altermondialisme	altermondialisme
+L047	ATTAC	ATTAC	Bernard Cassen	Cassen
+L048	ATTAC	ATTAC	le Monde diplomatique	Monde diplo
+L049	Clémentine Autain	Autain	Collectifs antilibéraux	collectifs antilibéraux
+L050	Clémentine Autain	Autain	Élection	élection
+L051	Clémentine Autain	Autain	Féminisme	féminisme
+L052	mouvement autonome	autonome	Action directe	action directe
+L053	mouvement autonome	autonome	Toni Negri	Negri
+L054	mouvement autonome	autonome	Précarité	précarité
+L055	mouvement autonome	autonome	Violence	violence
+L056	avant-garde	avant-garde	NA	NA
+L057	Étienne Balibar	Balibar	NA	NA
+L058	crise des banlieues	banlieues	Apartheid	apartheid
+L059	crise des banlieues	banlieues	MIB	MIB
+L060	Robert Barcia	Barcia	Barta	Barta
+L061	Robert Barcia	Barcia	Arlette Laguiller	Laguiller
+L062	Robert Barcia	Barcia	Lutte ouvrière	LO
+L063	Robert Barcia	Barcia	UCI	UCI
+L064	Barta	Barta	Lutte ouvrière	LO
+L065	Barta	Barta	Trotskisme	trotskisme
+L066	Barta	Barta	UCI	UCI
+L067	affaire Battisti	Battisti	NA	NA
+L068	Francine Bavay	Bavay	Écologie	écologie
+L069	Francine Bavay	Bavay	Élections	élection
+L070	Francine Bavay	Bavay	Fondation Copernic	Fondation Copernic
+L071	Francine Bavay	Bavay	Nonisme	nonisme
+L072	Olivier Besancenot	Besancenot	Alain Krivine	Krivine
+L073	Olivier Besancenot	Besancenot	LCR	LCR
+L074	Black Blocks	black blocks	Action directe	action directe
+L075	Black Blocks	black blocks	Anarchisme	anarchisme
+L076	Black Blocks	black blocks	Autonome (mouvement)	autonome
+L077	Black Blocks	black blocks	Violence	violence
+L078	José Bové	Bové	Altermondialisme	altermondialisme
+L079	José Bové	Bové	Confédération paysanne	Confédération paysanne
+L080	Bernard Cassen	Cassen	Altermondialisme	altermondialisme
+L081	Bernard Cassen	Cassen	ATTAC	ATTAC
+L082	Bernard Cassen	Cassen	Forum social mondial	Forum social mondial
+L083	Bernard Cassen	Cassen	le Monde diplomatique	Monde diplo
+L084	Bernard Cassen	Cassen	Jacques Nikonoff	Nikonoff
+L085	casseurs	casseurs	Autonome (mouvement)	autonome
+L086	casseurs	casseurs	Violence	violence
+L087	Casseurs de pub	Casseurs de pub	Décroissance	décroissance
+L088	Casseurs de pub	Casseurs de pub	Naomi Klein	Klein
+L089	Casseurs de pub	Casseurs de pub	No Logo	no logo
+L090	Charlie Hebdo	Charlie Hebdo	Culture	culture
+L091	Charlie Hebdo	Charlie Hebdo	Presse	presse
+L092	chômage, chômeurs 	chômage	AC!	AC!
+L093	chômage, chômeurs 	chômage	Autonome(mouvement)	autonome
+L094	chômage, chômeurs 	chômage	Précarité	précarité
+L095	Daniel Cohn-Bendit	Cohn-Bendit	Élections	élection
+L096	Daniel Cohn-Bendit	Cohn-Bendit	Mai 1968	mai 1968
+L097	collectifs	collectifs	NA	NA
+L098	collectifs antilibéraux	collectifs antilibéraux	NA	NA
+L099	Confédération paysanne	Confédération paysanne	ATTAC	ATTAC
+L100	Confédération paysanne	Confédération paysanne	José Bové	Bové
+L101	contre-pouvoir	contre-pouvoir	NA	NA
+L102	culture	culture	NA	NA
+L103	DAL	DAL	Jean-Baptiste Eyraud	Eyraud
+L104	décroissance	décroissance	Écologie	écologie
+L105	démocratie	démocratie	NA	NA
+L106	droits de l'homme	droits de l'homme	NA	NA
+L107	écologie	écologie	Alternatifs	les Alternatifs
+L108	écologie	écologie	Francine Bavay	Bavay
+L109	écologie	écologie	Décroissance	décroissance
+L110	écologie	écologie	Élections	élection
+L111	écologie	écologie	Alain Lipietz	Lipietz
+L112	effectifs	effectifs	NA	NA
+L113	élections	élection	NA	NA
+L114	électoralisme	électoralisme	NA	NA
+L115	entartage	entartage	Situationnisme	situationnisme
+L116	entrisme	entrisme	Pierre Lambert	Lambert
+L117	entrisme	entrisme	LCR	LCR
+L118	entrisme	entrisme	Trotskisme	trotskisme
+L119	État	État	NA	NA
+L120	État-nation	État-nation	NA	NA
+L121	ethnicisation de la question sociale	ethnicisation	Apartheid	apartheid
+L122	ethnicisation de la question sociale	ethnicisation	Immigration	immigration
+L123	ethnicisation de la question sociale	ethnicisation	Indigènes de la République	Indigènes de la République
+L124	Europe	Europe	État-nation	État-nation
+L125	Europe	Europe	Nonisme	nonisme
+L126	Jean-Baptiste Eyraud	Eyraud	DAL	DAL
+L127	Jean-Baptiste Eyraud	Eyraud	Précarité	précarité
+L128	Federation anarchiste (FA)	FA	Anarchisme	anarchisme
+L129	Federation anarchiste (FA)	FA	Mai 1968	mai 1968
+L130	féminisme	féminisme	NA	NA
+L131	fête	fête	NA	NA
+L132	fondation Copernic	Fondation Copernic	ATTAC	ATTAC
+L133	forum social mondial	Forum social mondial	Altermondialisme	altermondialisme
+L134	Front unique	front unique	Trotskisme	trotskisme
+L135	Gauche prolétarienne (GP)	GP	Maoïsme	maoïsme
+L136	Gauche prolétarienne (GP)	GP	Vive la révolution!	Vive la révolution!
+L137	gauchisme	gauchisme	NA	NA
+L138	génération	génération	Mai 1968	mai 1968
+L139	Daniel Gluckstein	Gluckstein	Élections	élection
+L140	Daniel Gluckstein	Gluckstein	Entrisme	entrisme
+L141	Daniel Gluckstein	Gluckstein	Pierre Lambert	Lambert
+L142	Daniel Gluckstein	Gluckstein	Parti des Travailleurs	PT
+L143	John Holloway	Holloway	Anarchisme	anarchisme
+L144	John Holloway	Holloway	État	État
+L145	John Holloway	Holloway	Antonio Negri	Negri
+L146	John Holloway	Holloway	Violence	violence
+L147	mouvement des homosexuels et lesbiennes	homosexualité	NA	NA
+L148	immigration et immigrés	immigration	Antiracisme	antiracisme
+L149	immigration et immigrés	immigration	Banlieues	banlieues
+L150	immigration et immigrés	immigration	MIB	MIB
+L151	immigration et immigrés	immigration	MTA	MTA
+L152	les indigènes de la République	Indigènes de la République	Ethnicisation de la question sociale	ethnicisation
+L153	les indigènes de la République	Indigènes de la République	Immigration	immigration
+L154	les indigènes de la République	Indigènes de la République	Islam	islam
+L155	les indigènes de la République	Indigènes de la République	Postcolonialisme	postcolonialisme
+L156	les Inrockuptibles	Inrocks	NA	NA
+L157	insulte	insulte	NA	NA
+L158	intellectuels	intellectuels	ATTAC	ATTAC
+L159	intellectuels	intellectuels	Marxisme (en 2007)	marxisme
+L160	intermittents	intermittents	Précarité et fravailleurs pauvres	précarité
+L161	Internet	internet	NA	NA
+L162	Islam	islam	Banlieues	banlieues
+L163	Islam	islam	MIB	MIB
+L164	Jeunesse communiste révolutionnaire (JCR)	JCR	Entrisme	entrisme
+L165	Jeunesse communiste révolutionnaire (JCR)	JCR	LCR	LCR
+L166	Jeunesse communiste révolutionnaire (JCR)	JCR	Trotskisme	trotskisme
+L167	jeunesse/jeunisme	jeunesse	Génération	génération
+L168	Naomi Klein	Klein	Altermondialisme	altermondialisme
+L169	Naomi Klein	Klein	No Logo	no logo
+L170	Alain Krivine	Krivine	Olivier Besancenot	Besancenot
+L171	Alain Krivine	Krivine	JCR	JCR
+L172	Alain Krivine	Krivine	LCR	LCR
+L173	Alain Krivine	Krivine	Mai 1968	mai 1968
+L174	Alain Krivine	Krivine	PCI	PCI
+L175	Arlette Laguiller	Laguiller	Barcia	Barcia
+L176	Arlette Laguiller	Laguiller	Élections	élection
+L177	Arlette Laguiller	Laguiller	Lutte ouvrière	LO
+L178	Arlette Laguiller	Laguiller	Union communiste internationaliste	UCI
+L179	Pierre Lambert	Lambert	Élections	élection
+L180	Pierre Lambert	Lambert	Entrisme	entrisme
+L181	Pierre Lambert	Lambert	Daniel Gluckstein	Gluckstein
+L182	Pierre Lambert	Lambert	Parti des Travailleurs	PT
+L183	léninisme	léninisme	NA	NA
+L184	Ligue communiste	Ligue communiste	Élections	élection
+L185	Ligue communiste	Ligue communiste	LCR	LCR
+L186	Ligue communiste	Ligue communiste	PCI	PCI
+L187	Ligue communiste	Ligue communiste	Trotskisme	trotskisme
+L188	Ligue communiste révolutionnaire (LCR)	LCR	Élections	élection
+L189	Ligue communiste révolutionnaire (LCR)	LCR	Alain Krivine	Krivine
+L190	Ligue communiste révolutionnaire (LCR)	LCR	LO	LO
+L191	Ligue communiste révolutionnaire (LCR)	LCR	Trotskisme	trotskisme
+L192	Ligue communiste révolutionnaire (LCR)	LCR	Trotskisme culturel	trotskisme culturel
+L193	Alain Lipietz	Lipietz	Écologie	écologie
+L194	Lutte ouvrière (LO)	LO	Robert Barcia	Barcia
+L195	Lutte ouvrière (LO)	LO	Barta	Barta
+L196	Lutte ouvrière (LO)	LO	Arlette Laguiller	Laguiller
+L197	Lutte ouvrière (LO)	LO	Trotskisme	trotskisme
+L198	Lutte ouvrière (LO)	LO	UCI	UCI
+L199	Mai 1968	mai 1968	Daniel Cohn-Bendit	Cohn-Bendit
+L200	Mai 1968	mai 1968	Situationnisme	situationnisme
+L201	maoïsme	maoïsme	Étienne Balibar	Balibar
+L202	maoïsme	maoïsme	Gauche prolétarienne	GP
+L203	maoïsme	maoïsme	Immigration	immigration
+L204	maoïsme	maoïsme	Vive la révolution!	Vive la révolution!
+L205	marxisme (en 2007)	marxisme	Toni Negri	Negri
+L206	médias	médias	Charlie Hebdo	Charlie Hebdo
+L207	médias	médias	le Monde diplomatique	Monde diplo
+L208	médias	médias	Presse	presse
+L209	militantisme	militantisme	NA	NA
+L210	le Monde diplomatique	Monde diplo	ATTAC	ATTAC
+L211	le Monde diplomatique	Monde diplo	Bernard Cassen	Cassen
+L212	le Monde diplomatique	Monde diplo	Islam	islam
+L213	le Monde diplomatique	Monde diplo	Presse	presse
+L214	mouvement	mouvement	NA	NA
+L215	Mouvement de l'immigration et des banlieues (MIB)	MIB	Banlieues	banlieues
+L216	Mouvement de l'immigration et des banlieues (MIB)	MIB	Immigration	immigration
+L217	Mouvement de l'immigration et des banlieues (MIB)	MIB	Islam	islam
+L218	Mouvement des travailleurs arabes (MTA)	MTA	Immigration	immigration
+L219	Toni Negri	Negri	Altermondialisme	altermondialisme
+L220	Toni Negri	Negri	Autonome (mouvement)	autonome
+L221	Jacques Nikonoff	Nikonoff	ATTAC	ATTAC
+L222	No Logo	no logo	Altermondialisme	altermondialisme
+L223	No Logo	no logo	Naomi Klein	Klein
+L224	nonisme	nonisme	Collectifs	collectifs
+L225	nonisme	nonisme	Europe	Europe
+L226	No Pasaran	No Pasaran	Antifascisme	antifascisme
+L227	No Pasaran	No Pasaran	Scalp	SCALP
+L228	Organisation communiste libertaire (OCL)	OCL	Anarchisme	anarchisme
+L229	Organisation communiste libertaire (OCL)	OCL	Autonome (mouvement)	autonome
+L230	Organisation communiste libertaire (OCL)	OCL	Fédération anarchiste	FA
+L231	Parti communiste internationaliste (PCI)	PCI	Anti-impérialisme	NA
+L232	Parti communiste internationaliste (PCI)	PCI	Entrisme	entrisme
+L233	Parti communiste internationaliste (PCI)	PCI	Alain Krivine	Krivine
+L234	Parti communiste internationaliste (PCI)	PCI	Mai 1968	mai 1968
+L235	Parti communiste internationaliste (PCI)	PCI	Trotski	Trotski
+L236	Parti communiste internationaliste (PCI)	PCI	Trotskisme	trotskisme
+L237	Parti des Travailleurs	PT	Élections	élection
+L238	Parti des Travailleurs	PT	Entrisme	entrisme
+L239	Parti des Travailleurs	PT	Front unique	front unique
+L240	Parti des Travailleurs	PT	Daniel Gluckstein	Gluckstein
+L241	Parti des Travailleurs	PT	Pierre Lambert	Lambert
+L242	Parti des Travailleurs	PT	OCI	PCI
+L243	Parti des Travailleurs	PT	Gérard Schivardi	Schivardi
+L244	Parti des Travailleurs	PT	Léon Trotski	Trotski
+L245	Parti des Travailleurs	PT	Trotskisme	trotskisme
+L246	PCF	PCF	Élections	élection
+L247	postcolonialisme	postcolonialisme	Immigration	immigration
+L248	postcolonialisme	postcolonialisme	Indigènes de la République	Indigènes de la République
+L249	précarité et travailleurs pauvres	précarité	Chômage	chômage
+L250	précarité et travailleurs pauvres	précarité	intermittents	intermittents
+L251	précarité et travailleurs pauvres	précarité	Revenu garanti	revenu garanti
+L252	presse	presse	Charlie Hebdo	Charlie Hebdo
+L253	presse	presse	Internet	internet
+L254	presse	presse	Presse	presse
+L255	PS	PS	Élections	élection
+L256	Ras l'front	Ras l'front	Antifascisme	antifascisme
+L257	Ras l'front	Ras l'front	Scalp	SCALP
+L258	retraites	retraites	NA	NA
+L259	revenu garanti	revenu garanti	Précarité	précarité
+L260	révolution	révolution	NA	NA
+L261	Jean-Paul Sartre	Sartre	Gauche prolétarienne	GP
+L262	Jean-Paul Sartre	Sartre	Maoïsme	maoïsme
+L263	Scalp (Section carrément anti-Le Pen)	SCALP	Antifascisme	antifascisme
+L264	Scalp (Section carrément anti-Le Pen)	SCALP	No Pasaran	No Pasaran
+L265	Scalp (Section carrément anti-Le Pen)	SCALP	Ras l'front	Ras l'front
+L266	Gérard Schivardi	Schivardi	Daniel Gluckstein	Gluckstein
+L267	Gérard Schivardi	Schivardi	Parti des Travailleurs	PT
+L268	Secours rouge	Secours rouge	Antiracisme	antiracisme
+L269	Secours rouge	Secours rouge	Gauche prolétarienne	GP
+L270	Secours rouge	Secours rouge	Maoïsme	maoïsme
+L271	Secours rouge	Secours rouge	Jean-Paul Sartre	Sartre
+L272	situationnisme	situationnisme	Autonome (mouvement)	autonome
+L273	slogan	slogan	NA	NA
+L274	stalinisme	stalinisme	Léninisme	léninisme
+L275	substitutisme	substitutisme	NA	NA
+L276	SUD (syndicats)	SUD	Syndicats	syndicat
+L277	symboles	symboles	NA	NA
+L278	syndicats	syndicat	SUD	SUD
+L279	tendance	tendance	NA	NA
+L280	travail et durée du travail	travail	NA	NA
+L281	Léon Trotski	Trotski	Trotskisme	trotskisme
+L282	trotskisme	trotskisme	LCR	LCR
+L283	trotskisme	trotskisme	LO	LO
+L284	trotskisme	trotskisme	Léon Trotski	Trotski
+L285	trotskisme	trotskisme	Trotskisme culturel	trotskisme culturel
+L286	trotskisme culturel	trotskisme culturel	NA	NA
+L287	trotskistes (groupuscules)	trotskistes (groupuscules)	Trotskisme	trotskisme
+L288	ultragauche	ultragauche	Situationnisme	situationnisme
+L289	Union communiste internationaliste (trotskiste)	UCI	Barcia	Barcia
+L290	Union communiste internationaliste (trotskiste)	UCI	Barta	Barta
+L291	Union communiste internationaliste (trotskiste)	UCI	Élections	élection
+L292	Union communiste internationaliste (trotskiste)	UCI	Arlette Laguiller	Laguiller
+L293	Union communiste internationaliste (trotskiste)	UCI	LCR	LCR
+L294	violence et terrorisme	violence	Action directe	action directe
+L295	Vive la révolution!	Vive la révolution!	Féminisme	féminisme
+L296	Vive la révolution!	Vive la révolution!	Homosexualité	homosexualité
+L297	Vive la révolution!	Vive la révolution!	Maoïsme	maoïsme
+L298	xénophobie	xénophobie	Ethnicisation de la question sociale	ethnicisation
