@@ -1,0 +1,474 @@
+LNUM	ENTREE	NOM_Prenom
+L001	Abattoir	KLEINSCHMAGER_Richard
+L002	Abri	PAQUOT_Thierry
+L003	Accessibilité	PUMAIN_Denise
+L004	Acteur	KLEINSCHMAGER_Richard
+L005	Adressage	PAQUOT_Thierry
+L006	Advocacy planning	PAQUOT_Thierry
+L007	Aéroport	PUMAIN_Denise
+L008	Affiche	KLEINSCHMAGER_Richard
+L009	Agence Nationale de la Rénovation Urbaine (ANRU)	KLEINSCHMAGER_Richard
+L010	Agence Nationale pour l'Amélioration de l'Habitat (ANAH)	NA
+L011	Agglomération	PUMAIN_Denise
+L012	Agora	PAQUOT_Thierry
+L013	Air	KLEINSCHMAGER_Richard
+L014	Aire de marché, aire (ou zone) de chalandise	PUMAIN_Denise
+L015	Aire d'influence (ou zone d'influence)	PUMAIN_Denise
+L016	Aire métropolitaine	PUMAIN_Denise
+L017	Aire urbaine	PUMAIN_Denise
+L018	Alignement	PAQUOT_Thierry
+L019	Allée	KLEINSCHMAGER_Richard
+L020	Altérité	PAQUOT_Thierry
+L021	Ambiance urbaine	PUMAIN_Denise
+L022	Aménagement du territoire	KLEINSCHMAGER_Richard
+L023	Aménité	PAQUOT_Thierry
+L024	Analyse spatiale	PUMAIN_Denise
+L025	Anthropologie de l'espace	PAQUOT_Thierry
+L026	Anthropologie urbaine	PAQUOT_Thierry
+L027	Aqueduc	PUMAIN_Denise
+L028	Arbre	PAQUOT_Thierry
+L029	Architecture urbaine	PAQUOT_Thierry
+L030	Argot	KLEINSCHMAGER_Richard
+L031	Armature urbaine	PUMAIN_Denise
+L032	Art urbain	PAQUOT_Thierry
+L033	Artificialisation	PUMAIN_Denise
+L034	Assainissement	KLEINSCHMAGER_Richard
+L035	Association	KLEINSCHMAGER_Richard
+L036	Association Foncière Urbaine (AFU)	KLEINSCHMAGER_Richard
+L037	Automobile	PAQUOT_Thierry
+L038	Autoroute	PAQUOT_Thierry
+L039	Autoroute	PUMAIN_Denise
+L040	Axe	PUMAIN_Denise
+L041	Badaud	PAQUOT_Thierry
+L042	Banane bleue	KLEINSCHMAGER_Richard
+L043	Banane bleue	PUMAIN_Denise
+L044	Banc public	KLEINSCHMAGER_Richard
+L045	Banlieue	PAQUOT_Thierry
+L046	Banlieue	PUMAIN_Denise
+L047	Barre	PAQUOT_Thierry
+L048	Barrière	PUMAIN_Denise
+L049	Base économique	PUMAIN_Denise
+L050	Bassin d'emploi	PUMAIN_Denise
+L051	Bastide	PAQUOT_Thierry
+L052	Berge	KLEINSCHMAGER_Richard
+L053	Bicyclette	PAQUOT_Thierry
+L054	Bidonville	PAQUOT_Thierry
+L055	Bombardement	KLEINSCHMAGER_Richard
+L056	Bouchon	PUMAIN_Denise
+L057	Boulevard	PAQUOT_Thierry
+L058	Bourg	PUMAIN_Denise
+L059	Bourgeois	PUMAIN_Denise
+L060	Bourse	PUMAIN_Denise
+L061	Bretelle	PUMAIN_Denise
+L062	Bruit	PUMAIN_Denise
+L063	BTP (industries du bâtiment et des travaux publics)	KLEINSCHMAGER_Richard
+L064	Budget	PUMAIN_Denise
+L065	Cadastre	KLEINSCHMAGER_Richard
+L066	Café	KLEINSCHMAGER_Richard
+L067	Capitale	KLEINSCHMAGER_Richard
+L068	Cardo	KLEINSCHMAGER_Richard
+L069	Carnaval	KLEINSCHMAGER_Richard
+L070	Carrefour	PUMAIN_Denise
+L071	Carte	PUMAIN_Denise
+L072	Carte communale	KLEINSCHMAGER_Richard
+L073	Caserne	KLEINSCHMAGER_Richard
+L074	Cathédrale	KLEINSCHMAGER_Richard
+L075	CBD	PUMAIN_Denise
+L076	Centralité	PUMAIN_Denise
+L077	Centre	PAQUOT_Thierry
+L078	Certificat d'urbanisme	KLEINSCHMAGER_Richard
+L079	Champ urbain	PUMAIN_Denise
+L080	Chaos	PAQUOT_Thierry
+L081	Charge foncière	PUMAIN_Denise
+L082	Charme	PAQUOT_Thierry
+L083	Charte d'Athènes (La)	PAQUOT_Thierry
+L084	Charte de Venise (La)	PAQUOT_Thierry
+L085	Chauffage	KLEINSCHMAGER_Richard
+L086	Ciam	PAQUOT_Thierry
+L087	Cimetière	KLEINSCHMAGER_Richard
+L088	Cinéma	PAQUOT_Thierry
+L089	Circulation	PUMAIN_Denise
+L090	Citadinité	KLEINSCHMAGER_Richard
+L091	Cité	PAQUOT_Thierry
+L092	Cité antique	PAQUOT_Thierry
+L093	Cité idéale	PAQUOT_Thierry
+L094	Cité-jardin	PAQUOT_Thierry
+L095	Cité linéaire	PAQUOT_Thierry
+L096	Cité radieuse (La)	PAQUOT_Thierry
+L097	Città diffusa	PAQUOT_Thierry
+L098	Citoyenneté	KLEINSCHMAGER_Richard
+L099	Civilisation urbaine	PAQUOT_Thierry
+L100	Civilité	KLEINSCHMAGER_Richard
+L101	Climat	PUMAIN_Denise
+L102	Coefficient d'occupation des sols (COS)	KLEINSCHMAGER_Richard
+L103	Commerce	PUMAIN_Denise
+L104	Communauté d'agglomération	KLEINSCHMAGER_Richard
+L105	Communauté fermée	PUMAIN_Denise
+L106	Communauté urbaine	KLEINSCHMAGER_Richard
+L107	Communauté urbaine	PUMAIN_Denise
+L108	Commune	KLEINSCHMAGER_Richard
+L109	Communication	PUMAIN_Denise
+L110	Concertation	PAQUOT_Thierry
+L111	Confort	PAQUOT_Thierry
+L112	Conseil d'architecture, d'urbanisme et d'environnement (CAUE)	KLEINSCHMAGER_Richard
+L113	Contraction de l'espace-temps	PUMAIN_Denise
+L114	Contrat d'agglomération	KLEINSCHMAGER_Richard
+L115	Contre-urbanisation	PUMAIN_Denise
+L116	Conurbation	PAQUOT_Thierry
+L117	Couleur	KLEINSCHMAGER_Richard
+L118	Croissance urbaine	PUMAIN_Denise
+L119	Cyberespace	PAQUOT_Thierry
+L120	DATAR	PUMAIN_Denise
+L121	Décentralisation	PUMAIN_Denise
+L122	Déchet ménager	KLEINSCHMAGER_Richard
+L123	Déclin urbain	PUMAIN_Denise
+L124	Déconcentration	PUMAIN_Denise
+L125	Decumanus	KLEINSCHMAGER_Richard
+L126	Densité	PUMAIN_Denise
+L127	Dérive	PAQUOT_Thierry
+L128	Développement durable	PUMAIN_Denise
+L129	Discontinuité	PUMAIN_Denise
+L130	Discrimination	PUMAIN_Denise
+L131	Disparité	PUMAIN_Denise
+L132	Distance	PUMAIN_Denise
+L133	District	KLEINSCHMAGER_Richard
+L134	Division spatiale	PUMAIN_Denise
+L135	Document d'urbanisme	KLEINSCHMAGER_Richard
+L136	Domaine public	KLEINSCHMAGER_Richard
+L137	Domicile	PUMAIN_Denise
+L138	Downtown	PUMAIN_Denise
+L139	Doxa	KLEINSCHMAGER_Richard
+L140	Drogue	KLEINSCHMAGER_Richard
+L141	Droit à la ville	PAQUOT_Thierry
+L142	Droit de l'urbanisme	KLEINSCHMAGER_Richard
+L143	DSQ	PUMAIN_Denise
+L144	Eau	PUMAIN_Denise
+L145	Échelle	PUMAIN_Denise
+L146	Écodéveloppement	PAQUOT_Thierry
+L147	École de Chicago	PUMAIN_Denise
+L148	Écologie	PAQUOT_Thierry
+L149	Écologie urbaine	PUMAIN_Denise
+L150	Économie urbaine	PUMAIN_Denise
+L151	Edge city	PAQUOT_Thierry
+L152	Égout	KLEINSCHMAGER_Richard
+L153	Enchaînement historique	PUMAIN_Denise
+L154	Enclave résidentielle	PAQUOT_Thierry
+L155	Enquête publique	PUMAIN_Denise
+L156	Environnement	KLEINSCHMAGER_Richard
+L157	Équilibre	PUMAIN_Denise
+L158	Espace public	PAQUOT_Thierry
+L159	Espace urbain	PUMAIN_Denise
+L160	Espace vert	KLEINSCHMAGER_Richard
+L161	Établissement humain	PUMAIN_Denise
+L162	Étalement urbain	PUMAIN_Denise
+L163	Exclusion	KLEINSCHMAGER_Richard
+L164	Expropriation	KLEINSCHMAGER_Richard
+L165	Expulsion	KLEINSCHMAGER_Richard
+L166	Exurbanisation	PUMAIN_Denise
+L167	Façadisme	PAQUOT_Thierry
+L168	Faubourg	PAQUOT_Thierry
+L169	Fête	PAQUOT_Thierry
+L170	Fiscalité	PUMAIN_Denise
+L171	Flâneur	PAQUOT_Thierry
+L172	Flux	PUMAIN_Denise
+L173	Foire	PUMAIN_Denise
+L174	Fonction urbaine	PUMAIN_Denise
+L175	Fontaine	KLEINSCHMAGER_Richard
+L176	Forme urbaine	PUMAIN_Denise
+L177	Fortification	KLEINSCHMAGER_Richard
+L178	Forum	KLEINSCHMAGER_Richard
+L179	Fouille	KLEINSCHMAGER_Richard
+L180	Foule	PAQUOT_Thierry
+L181	Fractale	PUMAIN_Denise
+L182	Fragmentation sociale	PUMAIN_Denise
+L183	Friche	PUMAIN_Denise
+L184	Friche	PAQUOT_Thierry
+L185	Gare	PAQUOT_Thierry
+L186	Génie urbain	KLEINSCHMAGER_Richard
+L187	Genre	PAQUOT_Thierry
+L188	Gentrification	PUMAIN_Denise
+L189	Géographie urbaine	PUMAIN_Denise
+L190	Ghetto	KLEINSCHMAGER_Richard
+L191	Gouvernance urbaine	KLEINSCHMAGER_Richard
+L192	Gouvernance urbaine	PUMAIN_Denise
+L193	Gradient	PUMAIN_Denise
+L194	Graffiti	KLEINSCHMAGER_Richard
+L195	Grand ensemble	PUMAIN_Denise
+L196	Grand magasin	PUMAIN_Denise
+L197	Gravitaire	NA
+L198	Guérilla urbaine	KLEINSCHMAGER_Richard
+L199	Guerre	PAQUOT_Thierry
+L200	Habitant	KLEINSCHMAGER_Richard
+L201	Habitat	PUMAIN_Denise
+L202	Habitation à loyer modéré (HLM)	KLEINSCHMAGER_Richard
+L203	Habitation à bon marché (HBM)	KLEINSCHMAGER_Richard
+L204	Halle	PUMAIN_Denise
+L205	Haussmannisation	PAQUOT_Thierry
+L206	Hiérarchie	PUMAIN_Denise
+L207	Histoire de l'urbanisme	PAQUOT_Thierry
+L208	Histoire urbaine	PUMAIN_Denise
+L209	Histoire des villes	PUMAIN_Denise
+L210	Hobo	PAQUOT_Thierry
+L211	Hôpital	PUMAIN_Denise
+L212	Hospitalité	PAQUOT_Thierry
+L213	Hygiénisme	KLEINSCHMAGER_Richard
+L214	Identité	KLEINSCHMAGER_Richard
+L215	Illégalité	PAQUOT_Thierry
+L216	Îlot	PUMAIN_Denise
+L217	Image	PUMAIN_Denise
+L218	Imaginaire urbain	PAQUOT_Thierry
+L219	Immeuble	PUMAIN_Denise
+L220	Impôt	NA
+L221	Incendie	KLEINSCHMAGER_Richard
+L222	Incivilité	KLEINSCHMAGER_Richard
+L223	Industrie	PUMAIN_Denise
+L224	Information	PUMAIN_Denise
+L225	Informatique	PUMAIN_Denise
+L226	Infrastructures	PUMAIN_Denise
+L227	Ingénieur	PUMAIN_Denise
+L228	Innovation	PUMAIN_Denise
+L229	Insalubrité	KLEINSCHMAGER_Richard
+L230	Insécurité	KLEINSCHMAGER_Richard
+L231	Interurbain	PUMAIN_Denise
+L232	Jardin ouvrier	KLEINSCHMAGER_Richard
+L233	Jardin public	KLEINSCHMAGER_Richard
+L234	Jardin zoologique	NA
+L235	Labyrinthe	PAQUOT_Thierry
+L236	Lieu et non-lieu	PAQUOT_Thierry
+L237	Lieu de culte	KLEINSCHMAGER_Richard
+L238	Limite	PAQUOT_Thierry
+L239	Littoral	PUMAIN_Denise
+L240	Locataire	KLEINSCHMAGER_Richard
+L241	Logement	PUMAIN_Denise
+L242	Loi d'orientation foncière (LOF)	PUMAIN_Denise
+L243	Loi d'orientation pour la ville (LOV)	KLEINSCHMAGER_Richard
+L244	Loi rang-taille	PUMAIN_Denise
+L245	Loi solidarité et renouvellement urbain (SRU)	KLEINSCHMAGER_Richard
+L246	Loisir	PAQUOT_Thierry
+L247	Lotissement	KLEINSCHMAGER_Richard
+L248	Lowry	PUMAIN_Denise
+L249	Loyer	KLEINSCHMAGER_Richard
+L250	Lutte urbaine	PAQUOT_Thierry
+L251	Mail	PAQUOT_Thierry
+L252	Maire	KLEINSCHMAGER_Richard
+L253	Maison	PUMAIN_Denise
+L254	Maître d'oeuvre	KLEINSCHMAGER_Richard
+L255	Maître d'ouvrage	KLEINSCHMAGER_Richard
+L256	Maîtrise foncière	PUMAIN_Denise
+L257	Marché	PUMAIN_Denise
+L258	Marge, marginalité	PUMAIN_Denise
+L259	Marina	PAQUOT_Thierry
+L260	Marketing urbain	PUMAIN_Denise
+L261	Médina	PAQUOT_Thierry
+L262	Mégalopole	PUMAIN_Denise
+L263	Mégapole	PUMAIN_Denise
+L264	Mémoire	PUMAIN_Denise
+L265	Métabolisme urbain	PUMAIN_Denise
+L266	Métapole	KLEINSCHMAGER_Richard
+L267	Métropole	PUMAIN_Denise
+L268	Métropole d'équilibre	PUMAIN_Denise
+L269	Métropolisation	PUMAIN_Denise
+L270	Métropolitain	PUMAIN_Denise
+L271	Migration	PUMAIN_Denise
+L272	Minorité	KLEINSCHMAGER_Richard
+L273	Mitage	PUMAIN_Denise
+L274	Mobilier urbain	PUMAIN_Denise
+L275	Mobilité	PUMAIN_Denise
+L276	Modèle	PUMAIN_Denise
+L277	Monument	KLEINSCHMAGER_Richard
+L278	Monument	PAQUOT_Thierry
+L279	Monument historique	KLEINSCHMAGER_Richard
+L280	Morphologie	PAQUOT_Thierry
+L281	Moyen de transport	PUMAIN_Denise
+L282	Multimodalité	PUMAIN_Denise
+L283	Municipalité	KLEINSCHMAGER_Richard
+L284	Mur	KLEINSCHMAGER_Richard
+L285	Musée	PUMAIN_Denise
+L286	Nature	KLEINSCHMAGER_Richard
+L287	Navette	PUMAIN_Denise
+L288	New urbanism	PAQUOT_Thierry
+L289	Nimby	PUMAIN_Denise
+L290	Nuisance	PUMAIN_Denise
+L291	Nuit	PAQUOT_Thierry
+L292	Odeur	PAQUOT_Thierry
+L293	Opinion publique	PAQUOT_Thierry
+L294	Ordures ménagères	NA
+L295	Organisation non gouvernementale (ONG)	PAQUOT_Thierry
+L296	Pact-arim	KLEINSCHMAGER_Richard
+L297	Palais	KLEINSCHMAGER_Richard
+L298	Palace	KLEINSCHMAGER_Richard
+L299	Parc	KLEINSCHMAGER_Richard
+L300	Parc de loisirs	PAQUOT_Thierry
+L301	Parcs (système de)	PAQUOT_Thierry
+L302	Parcellaire	KLEINSCHMAGER_Richard
+L303	Paroisse	KLEINSCHMAGER_Richard
+L304	Participation	PUMAIN_Denise
+L305	Parvis	KLEINSCHMAGER_Richard
+L306	Passage	PAQUOT_Thierry
+L307	Pâté	KLEINSCHMAGER_Richard
+L308	Patente	KLEINSCHMAGER_Richard
+L309	Patrimoine urbain	KLEINSCHMAGER_Richard
+L310	Patrimoine urbain	PAQUOT_Thierry
+L311	Pauvreté	PUMAIN_Denise
+L312	Pavage	PAQUOT_Thierry
+L313	Paysage	PAQUOT_Thierry
+L314	Paysage urbain	PAQUOT_Thierry
+L315	Péage	PUMAIN_Denise
+L316	Pèlerinage	KLEINSCHMAGER_Richard
+L317	Pénétrante	PUMAIN_Denise
+L318	Perception	PUMAIN_Denise
+L319	Périphérie	PUMAIN_Denise
+L320	Péri-urbanisation	PUMAIN_Denise
+L321	Permis de construire	KLEINSCHMAGER_Richard
+L322	Permis de démolir	KLEINSCHMAGER_Richard
+L323	Philosophie de l'urbain	PAQUOT_Thierry
+L324	Piéton	KLEINSCHMAGER_Richard
+L325	Piste cyclable	PAQUOT_Thierry
+L326	Place	KLEINSCHMAGER_Richard
+L327	Plan	PUMAIN_Denise
+L328	Plan de déplacement urbain (P.D.U.)	PUMAIN_Denise
+L329	Plan d'occupation des sols (P.O.S.)	KLEINSCHMAGER_Richard
+L330	Plan local d'urbanisme (P.L.U.)	KLEINSCHMAGER_Richard
+L331	Plan-masse	KLEINSCHMAGER_Richard
+L332	Planification urbaine	PUMAIN_Denise
+L333	Plus-value d'urbanisation	PUMAIN_Denise
+L334	Polarisation	PUMAIN_Denise
+L335	Pôle	PUMAIN_Denise
+L336	Nature	KLEINSCHMAGER_Richard
+L337	Politique de la ville	PUMAIN_Denise
+L338	Pollution atmosphérique	KLEINSCHMAGER_Richard
+L339	Population	PUMAIN_Denise
+L340	Port	PUMAIN_Denise
+L341	Porte	PUMAIN_Denise
+L342	Portée	PUMAIN_Denise
+L343	Post-modernisme	KLEINSCHMAGER_Richard
+L344	Poubelle	PAQUOT_Thierry
+L345	Préemption (droit de)	KLEINSCHMAGER_Richard
+L346	Prix foncier et immobilier	PUMAIN_Denise
+L347	Programmation	PAQUOT_Thierry
+L348	Progrès	PAQUOT_Thierry
+L349	Projet urbain	PAQUOT_Thierry
+L350	Promenade	KLEINSCHMAGER_Richard
+L351	Promenadologie	PAQUOT_Thierry
+L352	Promoteur	KLEINSCHMAGER_Richard
+L353	Propriétaire	KLEINSCHMAGER_Richard
+L354	Publicité	KLEINSCHMAGER_Richard
+L355	Quartier	PAQUOT_Thierry
+L356	Radiale	PUMAIN_Denise
+L357	Radioconcentrique	PUMAIN_Denise
+L358	Ramassage des ordures ménagères	NA
+L359	Rationalisme	PAQUOT_Thierry
+L360	Réhabilitation	KLEINSCHMAGER_Richard
+L361	Rénovation	KLEINSCHMAGER_Richard
+L362	Rénovation	PUMAIN_Denise
+L363	Rente	PUMAIN_Denise
+L364	Représentation	PAQUOT_Thierry
+L365	Représentation	PUMAIN_Denise
+L366	Requalification	PUMAIN_Denise
+L367	Réseau	PUMAIN_Denise
+L368	Réseaux techniques	PUMAIN_Denise
+L369	Réseau urbain, réseau de villes	PUMAIN_Denise
+L370	Réserve foncière	PUMAIN_Denise
+L371	Résidence	PUMAIN_Denise
+L372	Restauration	KLEINSCHMAGER_Richard
+L373	Risque	KLEINSCHMAGER_Richard
+L374	Rocade	PUMAIN_Denise
+L375	Route	PUMAIN_Denise
+L376	Rue	PAQUOT_Thierry
+L377	Rue-galerie	PAQUOT_Thierry
+L378	Rue piétonne	NA
+L379	Ruine	KLEINSCHMAGER_Richard
+L380	Rurbanisation	PUMAIN_Denise
+L381	Rythmanalyse	PAQUOT_Thierry
+L382	Salle de sport	PUMAIN_Denise
+L383	Schéma de cohérence territoriale (SCOT)	KLEINSCHMAGER_Richard
+L384	Schéma directeur	KLEINSCHMAGER_Richard
+L385	Science-fiction	PAQUOT_Thierry
+L386	Sécurité	PUMAIN_Denise
+L387	Ségrégation	PUMAIN_Denise
+L388	Sens	PAQUOT_Thierry
+L389	Services	PUMAIN_Denise
+L390	Servitude	KLEINSCHMAGER_Richard
+L391	Site	PUMAIN_Denise
+L392	Situation	PUMAIN_Denise
+L393	Situationnisme	PAQUOT_Thierry
+L394	Société d'économie mixte d'aménagement urbain	KLEINSCHMAGER_Richard
+L395	Société d'économie mixte locale	KLEINSCHMAGER_Richard
+L396	Sociologie urbaine	PAQUOT_Thierry
+L397	Spéculation	PUMAIN_Denise
+L398	Squat	PAQUOT_Thierry
+L399	Stade	PAQUOT_Thierry
+L400	Station	PUMAIN_Denise
+L401	Stationnement	PUMAIN_Denise
+L402	Système d'information géographique	PUMAIN_Denise
+L403	Système de villes	PUMAIN_Denise
+L404	Tag	PAQUOT_Thierry
+L405	Taudis	PAQUOT_Thierry
+L406	Taxe locale d'équipement	PUMAIN_Denise
+L407	Taxe professionnelle	KLEINSCHMAGER_Richard
+L408	Taxi	PAQUOT_Thierry
+L409	Taxi	PUMAIN_Denise
+L410	Tchatche	PAQUOT_Thierry
+L411	Technopole	PUMAIN_Denise
+L412	Technopôle	PUMAIN_Denise
+L413	Télécommunication	PUMAIN_Denise
+L414	Temporalité	PUMAIN_Denise
+L415	Terrain	KLEINSCHMAGER_Richard
+L416	Territoire	KLEINSCHMAGER_Richard
+L417	Théorie des lieux centraux	PUMAIN_Denise
+L418	Thermes	PAQUOT_Thierry
+L419	Tissu urbain	PAQUOT_Thierry
+L420	Topoanalyse	PAQUOT_Thierry
+L421	Tourisme	PAQUOT_Thierry
+L422	Touriste	PAQUOT_Thierry
+L423	Township	PUMAIN_Denise
+L424	Tramway	KLEINSCHMAGER_Richard
+L425	Transition urbaine	PUMAIN_Denise
+L426	Transport	PUMAIN_Denise
+L427	Trottoir	KLEINSCHMAGER_Richard
+L428	Trottoir	PAQUOT_Thierry
+L429	Unité de voisinage	PUMAIN_Denise
+L430	Unité urbaine	PUMAIN_Denise
+L431	Université	PAQUOT_Thierry
+L432	Urbain (l')	PAQUOT_Thierry
+L433	Urbanisation	PUMAIN_Denise
+L434	Urbanisme	PAQUOT_Thierry
+L435	Urbanisme*	PAQUOT_Thierry
+L436	Urbanisme commercial	PAQUOT_Thierry
+L437	Urbanisme de dalle	PAQUOT_Thierry
+L438	Urbanisme souterrain	PAQUOT_Thierry
+L439	Urbaniste	PAQUOT_Thierry
+L440	Urbanité	PAQUOT_Thierry
+L441	Urbanologie	PAQUOT_Thierry
+L442	Urban sprawl	PAQUOT_Thierry
+L443	Urbicide	PAQUOT_Thierry
+L444	Usager	PAQUOT_Thierry
+L445	Utopie	PAQUOT_Thierry
+L446	Utopie urbaine	PAQUOT_Thierry
+L447	Vernaculaire	KLEINSCHMAGER_Richard
+L448	Viabilité	KLEINSCHMAGER_Richard
+L449	Village urbain	PUMAIN_Denise
+L450	Ville	PUMAIN_Denise
+L451	Ville durable	PUMAIN_Denise
+L452	Ville émergente	PUMAIN_Denise
+L453	Ville globale ou ville mondiale	PUMAIN_Denise
+L454	Ville internationale	PUMAIN_Denise
+L455	Ville nouvelle	KLEINSCHMAGER_Richard
+L456	Ville satellite	PUMAIN_Denise
+L457	Violence urbaine	PAQUOT_Thierry
+L458	Vitesse	PUMAIN_Denise
+L459	Vitrine	PAQUOT_Thierry
+L460	Voie	PUMAIN_Denise
+L461	Voirie	KLEINSCHMAGER_Richard
+L462	Voirie	PUMAIN_Denise
+L463	Voisinage	PUMAIN_Denise
+L464	Vulnérabilité	PUMAIN_Denise
+L465	Zone, zonage, zoning	PAQUOT_Thierry
+L466	Zone à urbaniser par priorité (ZUP)	KLEINSCHMAGER_Richard
+L467	Zone d'aménagement concerté (ZAC)	KLEINSCHMAGER_Richard
+L468	Zone franche urbaine	KLEINSCHMAGER_Richard
+L469	Zone franche urbaine	PUMAIN_Denise
+L470	Zone de protection du patrimoine architectural et paysager (ZPPAUP)	KLEINSCHMAGER_Richard
+L471	Zone urbaine sensible	PUMAIN_Denise
+L472	Zoo	PAQUOT_Thierry
+L473	Zwischenstadt	PAQUOT_Thierry

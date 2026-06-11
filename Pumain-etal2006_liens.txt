@@ -1,0 +1,1779 @@
+LNUM	ENTREE	ORIGINE	RENVOI	DESTINATION
+L0001	Abattoir	Abattoir	Métabolisme urbain	Métabolisme urbain
+L0002	Abattoir	Abattoir	Nuisance	Nuisance
+L0003	Abattoir	Abattoir	Services	Services
+L0004	Abattoir	Abattoir	Voisinage	Voisinage
+L0005	Abri	Abri	Domicile	Domicile
+L0006	Abri	Abri	Logement	Logement
+L0007	Abri	Abri	Maison	Maison
+L0008	Accessibilité	Accessibilité	Carrefour	Carrefour
+L0009	Accessibilité	Accessibilité	Centralité	Centralité
+L0010	Accessibilité	Accessibilité	Communication	Communication
+L0011	Accessibilité	Accessibilité	Distance	Distance
+L0012	Accessibilité	Accessibilité	Infrastructures	Infrastructures
+L0013	Accessibilité	Accessibilité	Transport	Transport
+L0014	Acteur	Acteur	Association	Association
+L0015	Acteur	Acteur	Citoyen	Citoyenneté
+L0016	Acteur	Acteur	Décentralisation	Décentralisation
+L0017	Acteur	Acteur	Ingénieur	Ingénieur
+L0018	Acteur	Acteur	Maire	Maire
+L0019	Acteur	Acteur	Promoteur	Promoteur
+L0020	Acteur	Acteur	Urbaniste	Urbaniste
+L0021	Adressage	Adressage	Plan	Plan
+L0022	Adressage	Adressage	Rue	Rue
+L0023	Adressage	Adressage	Système d'information géographique	Système d'information géographique
+L0024	Advocacy planning	Advocacy planning	Acteur	Acteur
+L0025	Advocacy planning	Advocacy planning	Association	Association
+L0026	Advocacy planning	Advocacy planning	Planification urbaine	Planification urbaine
+L0027	Advocacy planning	Advocacy planning	Urbanisme	Urbanisme
+L0028	Aéroport	Aéroport	Technopôle	Technopôle
+L0029	Aéroport	Aéroport	Transport	Transport
+L0030	Affiche	Affiche	Mobilier urbain	Mobilier urbain
+L0031	Affiche	Affiche	Paysage	Paysage
+L0032	Affiche	Affiche	Rue	Rue
+L0033	Agence Nationale de la Rénovation Urbaine (ANRU)	ANRU	Politique de la ville	Politique de la ville
+L0034	Agence Nationale de la Rénovation Urbaine (ANRU)	ANRU	Zone urbaine sensible	Zone urbaine sensible
+L0035	Agence Nationale pour l'Amélioration de l'Habitat (ANAH)	NA	Habitat	NA
+L0036	Agglomération	Agglomération	Aire urbaine	Aire urbaine
+L0037	Agglomération	Agglomération	Bassin d'emploi	Bassin d'emploi
+L0038	Agglomération	Agglomération	Communauté d'agglomération	Communauté d'agglomération
+L0039	Agglomération	Agglomération	Commune	Commune
+L0040	Agglomération	Agglomération	Densité	Densité
+L0041	Agglomération	Agglomération	Municipalité	Municipalité
+L0042	Agglomération	Agglomération	Unité urbaine	Unité urbaine
+L0043	Agglomération	Agglomération	Ville	Ville
+L0044	Agora	Agora	Espace public	Espace public
+L0045	Agora	Agora	Place	Place
+L0046	Air	Air	Environnement	Environnement
+L0047	Air	Air	Pollution atmosphérique	Pollution atmosphérique
+L0048	Aire de marché, aire (ou zone) de chalandise	Aire de marché	Aire d'influence	Aire d'influence
+L0049	Aire de marché, aire (ou zone) de chalandise	Aire de marché	Commerce	Commerce
+L0050	Aire de marché, aire (ou zone) de chalandise	Aire de marché	Théorie des lieux centraux	Théorie des lieux centraux
+L0051	Aire d'influence (ou zone d'influence)	Aire d'influence	Aire de marché	Aire de marché
+L0052	Aire d'influence (ou zone d'influence)	Aire d'influence	Portée	Portée
+L0053	Aire d'influence (ou zone d'influence)	Aire d'influence	Services	Services
+L0054	Aire d'influence (ou zone d'influence)	Aire d'influence	Théorie des lieux centraux	Théorie des lieux centraux
+L0055	Aire métropolitaine	Aire métropolitaine	Agglomération	Agglomération
+L0056	Aire métropolitaine	Aire métropolitaine	Aire urbaine	Aire urbaine
+L0057	Aire métropolitaine	Aire métropolitaine	Bassin d'emploi	Bassin d'emploi
+L0058	Aire métropolitaine	Aire métropolitaine	Métropolisation	Métropolisation
+L0059	Aire métropolitaine	Aire métropolitaine	Unité urbaine	Unité urbaine
+L0060	Aire urbaine	Aire urbaine	Agglomération	Agglomération
+L0061	Aire urbaine	Aire urbaine	Aire métropolitaine	Aire métropolitaine
+L0062	Aire urbaine	Aire urbaine	Bassin d'emploi	Bassin d'emploi
+L0063	Aire urbaine	Aire urbaine	Étalement urbain	Étalement urbain
+L0064	Aire urbaine	Aire urbaine	Unité urbaine	Unité urbaine
+L0065	Alignement	Alignement	Plan	Plan
+L0066	Alignement	Alignement	Rue	Rue
+L0067	Alignement	Alignement	Urbanisme	Urbanisme
+L0068	Allée	Allée	Rue	Rue
+L0069	Allée	Allée	Jardin	Jardin public
+L0070	Allée	Allée	Mail	Mail
+L0071	Allée	Allée	Parc	Parc
+L0072	Allée	Allée	Piéton	Piéton
+L0073	Allée	Allée	Promenade	Promenade
+L0074	Altérité	Altérité	Civilité	Civilité
+L0075	Altérité	Altérité	Citadinité	Citadinité
+L0076	Ambiance urbaine	Ambiance urbaine	Bruit	Bruit
+L0077	Ambiance urbaine	Ambiance urbaine	Climat	Climat
+L0078	Ambiance urbaine	Ambiance urbaine	Couleur	Couleur
+L0079	Ambiance urbaine	Ambiance urbaine	Nuisance	Nuisance
+L0080	Ambiance urbaine	Ambiance urbaine	Nuit	Nuit
+L0081	Ambiance urbaine	Ambiance urbaine	Odeur	Odeur
+L0082	Ambiance urbaine	Ambiance urbaine	Paysage	Paysage
+L0083	Ambiance urbaine	Ambiance urbaine	Urbanisme	Urbanisme
+L0084	Aménagement du territoire	Aménagement du territoire	Armature urbaine	Armature urbaine
+L0085	Aménagement du territoire	Aménagement du territoire	Décentralisation	Décentralisation
+L0086	Aménagement du territoire	Aménagement du territoire	DATAR	DATAR
+L0087	Aménagement du territoire	Aménagement du territoire	Équipement	Aménagement du territoire
+L0088	Aménagement du territoire	Aménagement du territoire	Urbanisation	Urbanisation
+L0089	Aménité	Aménité	Ambiance urbaine	Ambiance urbaine
+L0090	Aménité	Aménité	Paysage	Paysage
+L0091	Analyse spatiale	Analyse spatiale	Écologie urbaine	Écologie urbaine
+L0092	Analyse spatiale	Analyse spatiale	Géographie urbaine	Géographie urbaine
+L0093	Analyse spatiale	Analyse spatiale	Système d'information géographique urbain	Système d'information géographique
+L0094	Anthropologie de l'espace	Anthropologie de l'espace	Anthropologie	Anthropologie urbaine
+L0095	Anthropologie de l'espace	Anthropologie de l'espace	Maison	Maison
+L0096	Anthropologie urbaine	Anthropologie urbaine	Anthropologie	Anthropologie de l'espace
+L0097	Anthropologie urbaine	Anthropologie urbaine	Identité	Identité
+L0098	Anthropologie urbaine	Anthropologie urbaine	Ville	Ville
+L0099	Anthropologie urbaine	Anthropologie urbaine	Urbain	Urbain (l')
+L0100	Aqueduc	Aqueduc	Réseau technique	Réseaux techniques
+L0101	Arbre	Arbre	Aménité	Aménité
+L0102	Arbre	Arbre	Environnement	Environnement
+L0103	Architecture urbaine	Architecture urbaine	Urbanisme	Urbanisme
+L0104	Argot	Argot	Tchatche	Tchatche
+L0105	Argot	Argot	Banlieue	Banlieue
+L0106	Argot	Argot	Citadinité	Citadinité
+L0107	Armature urbaine	Armature urbaine	Réseau urbain	Réseau urbain
+L0108	Armature urbaine	Armature urbaine	Système de villes	Système de villes
+L0109	Armature urbaine	Armature urbaine	Théorie des lieux centraux	Théorie des lieux centraux
+L0110	Art urbain	Art urbain	Urbanisme	Urbanisme
+L0111	Artificialisation	Artificialisation	Climat	Climat
+L0112	Artificialisation	Artificialisation	Écologie	Écologie
+L0113	Artificialisation	Artificialisation	Développement durable	Développement durable
+L0114	Assainissement	Assainissement	Égout	Égout
+L0115	Assainissement	Assainissement	Environnement	Environnement
+L0116	Assainissement	Assainissement	Génie urbain	Génie urbain
+L0117	Assainissement	Assainissement	Pollution	Pollution atmosphérique
+L0118	Assainissement	Assainissement	Réseau technique	Réseaux techniques
+L0119	Association	Association	Quartier	Quartier
+L0120	Association	Association	Voisinage	Voisinage
+L0121	Association	Association	Municipalité	Municipalité
+L0122	Association	Association	Citoyen	Citoyenneté
+L0123	Association	Association	Décentralisation	Décentralisation
+L0124	Association	Association	Maire	Maire
+L0125	Association	Association	Promoteur	Promoteur
+L0126	Association	Association	Urbanisme	Urbanisme
+L0127	Association	Association	Advocacy planning	Advocacy planning
+L0128	Association Foncière Urbaine (AFU)	AFU	Association	Association
+L0129	Association Foncière Urbaine (AFU)	AFU	Patrimoine	Patrimoine urbain
+L0130	Association Foncière Urbaine (AFU)	AFU	Foncier	Maîtrise foncière
+L0131	Association Foncière Urbaine (AFU)	AFU	Restauration	Restauration
+L0132	Automobile	Automobile	Péri-urbanisation	Péri-urbanisation
+L0133	Automobile	Automobile	Transport	Transport
+L0134	Autoroute	Autoroute	Automobile	Automobile
+L0135	Autoroute	Autoroute	Pénétrante	Pénétrante
+L0136	Autoroute	Autoroute	Rocade	Rocade
+L0137	Autoroute	Autoroute	Transport	Transport
+L0138	Autoroute	Autoroute	Voirie	Voirie
+L0139	Axe	Axe	Cardo	Cardo
+L0140	Axe	Axe	Circulation	Circulation
+L0141	Axe	Axe	Decumanus	Decumanus
+L0142	Axe	Axe	Voirie	Voirie
+L0143	Badaud	Badaud	Dérive	Dérive
+L0144	Badaud	Badaud	Promenade	Promenade
+L0145	Banane bleue	Banane bleue	Mégalopole	Mégalopole
+L0146	Banane bleue	Banane bleue	Réseau urbain	Réseau urbain
+L0147	Banane bleue	Banane bleue	Système de villes	Système de villes
+L0148	Banc public	Banc public	Trottoir	Trottoir
+L0149	Banc public	Banc public	Mobilier urbain	Mobilier urbain
+L0150	Banc public	Banc public	Espace vert	Espace vert
+L0151	Banlieue	Banlieue	Faubourg	Faubourg
+L0152	Banlieue	Banlieue	Péri-urbanisation	Péri-urbanisation
+L0153	Barre	Barre	Grand ensemble	Grand ensemble
+L0154	Barre	Barre	Immobilier	Immeuble
+L0155	Barrière	Barrière	Zone	Zone, zonage, zoning
+L0156	Barrière	Barrière	Modèle gravitaire	Modèle
+L0157	Barrière	Barrière	Ségrégation	Ségrégation
+L0158	Base économique	Base économique	Fonction urbaine	Fonction urbaine
+L0159	Base économique	Base économique	Spécialisation	Base économique
+L0160	Bassin d'emploi	Bassin d'emploi	Aire métropolitaine	Aire métropolitaine
+L0161	Bassin d'emploi	Bassin d'emploi	Aire urbaine	Aire urbaine
+L0162	Bassin d'emploi	Bassin d'emploi	Aire d'influence	Aire d'influence
+L0163	Bastide	Bastide	Ville nouvelle	Ville nouvelle
+L0164	Berge	Berge	Eau	Eau
+L0165	Berge	Berge	Environnement	Environnement
+L0166	Berge	Berge	Tourisme	Tourisme
+L0167	Bicyclette	Bicyclette	Piste cyclable	Piste cyclable
+L0168	Bicyclette	Bicyclette	Transport	Transport
+L0169	Bidonville	Bidonville	Habitat	Habitat
+L0170	Bidonville	Bidonville	Maison	Maison
+L0171	Bombardement	Bombardement	Guerre	Guerre
+L0172	Bombardement	Bombardement	Patrimoine	Patrimoine urbain
+L0173	Bombardement	Bombardement	Urbanisme	Urbanisme
+L0174	Bouchon	Bouchon	Circulation	Circulation
+L0175	Bouchon	Bouchon	Vitesse	Vitesse
+L0176	Bouchon	Bouchon	Voirie	Voirie
+L0177	Boulevard	Boulevard	Axe	Axe
+L0178	Boulevard	Boulevard	Rue	Rue
+L0179	Boulevard	Boulevard	Voirie	Voirie
+L0180	Boulevard	Boulevard	Urbanisme	Urbanisme
+L0181	Bourg	Bourg	Ville	Ville
+L0182	Bourgeois	Bourgeois	Population	Population
+L0183	Bourgeois	Bourgeois	Ville	Ville
+L0184	Bourse	Bourse	Fonction urbaine	Fonction urbaine
+L0185	Bourse	Bourse	Marché	Marché
+L0186	Bretelle	Bretelle	Autoroute	Autoroute
+L0187	Bretelle	Bretelle	Voirie	Voirie
+L0188	Bruit	Bruit	Ambiance urbaine	Ambiance urbaine
+L0189	Bruit	Bruit	Nuisance	Nuisance
+L0190	BTP (industries du bâtiment et des travaux publics)	BTP	Logement	Logement
+L0191	BTP (industries du bâtiment et des travaux publics)	BTP	Ingénieur	Ingénieur
+L0192	BTP (industries du bâtiment et des travaux publics)	BTP	Promoteur	Promoteur
+L0193	BTP (industries du bâtiment et des travaux publics)	BTP	Voirie	Voirie
+L0194	Budget	Budget	Fiscalité	Fiscalité
+L0195	Budget	Budget	Municipalité	Municipalité
+L0196	Budget	Budget	Gouvernance	Gouvernance urbaine
+L0197	Cadastre	Cadastre	Parcellaire	Parcellaire
+L0198	Cadastre	Cadastre	Propriétaire	Propriétaire
+L0199	Cadastre	Cadastre	Fiscalité	Fiscalité
+L0200	Café	Café	Quartier	Quartier
+L0201	Café	Café	Grand ensemble	Grand ensemble
+L0202	Café	Café	HLM	HLM
+L0203	Café	Café	Service	Services
+L0204	Capitale	Capitale	Centralité	Centralité
+L0205	Capitale	Capitale	Citoyen	Citoyenneté
+L0206	Capitale	Capitale	État	Capitale
+L0207	Capitale	Capitale	Métropole	Métropole
+L0208	Capitale	Capitale	Fonction urbaine	Fonction urbaine
+L0209	Cardo	Cardo	Decumanus	Decumanus
+L0210	Cardo	Cardo	Cité antique	Cité antique
+L0211	Carnaval	Carnaval	Fête	Fête
+L0212	Carnaval	Carnaval	Quartier	Quartier
+L0213	Carnaval	Carnaval	Identité	Identité
+L0214	Carrefour	Carrefour	Accessibilité	Accessibilité
+L0215	Carrefour	Carrefour	Centralité	Centralité
+L0216	Carrefour	Carrefour	Circulation	Circulation
+L0217	Carrefour	Carrefour	Communication	Communication
+L0218	Carte	Carte	Cadastre	Cadastre
+L0219	Carte	Carte	Plan	Plan
+L0220	Carte	Carte	Système d'information géographique	Système d'information géographique
+L0221	Carte communale	Carte communale	Documents d'urbanisme	Document d'urbanisme
+L0222	Carte communale	Carte communale	Loi SRU	SRU
+L0223	Carte communale	Carte communale	PLU	PLU
+L0224	Carte communale	Carte communale	POS	POS
+L0225	Carte communale	Carte communale	SCOT	SCOT
+L0226	Carte communale	Carte communale	Urbanisme	Urbanisme
+L0227	Caserne	Caserne	Incendie	Incendie
+L0228	Caserne	Caserne	Police	Police
+L0229	Caserne	Caserne	Guerre	Guerre
+L0230	Cathédrale	Cathédrale	Identité	Identité
+L0231	Cathédrale	Cathédrale	Architecture	Architecture urbaine
+L0232	Cathédrale	Cathédrale	Symbolique	Cathédrale
+L0233	Cathédrale	Cathédrale	Monument	Monument
+L0234	Cathédrale	Cathédrale	Paroisse	Paroisse
+L0235	CBD	CBD	Centre	Centre
+L0236	CBD	CBD	Fonction urbaine	Fonction urbaine
+L0237	CBD	CBD	Downtown	Downtown
+L0238	Centralité	Centralité	Accessibilité	Accessibilité
+L0239	Centralité	Centralité	Centre	Centre
+L0240	Centralité	Centralité	Fonction urbaine	Fonction urbaine
+L0241	Centralité	Centralité	Hiérarchie urbaine	Hiérarchie
+L0242	Centralité	Centralité	Polycentrisme	Centralité
+L0243	Centralité	Centralité	Réseau	Réseau
+L0244	Centralité	Centralité	Théorie des lieux centraux	Théorie des lieux centraux
+L0245	Centre	Centre	CBD	CBD
+L0246	Centre	Centre	Centralité	Centralité
+L0247	Centre	Centre	Downtown	Downtown
+L0248	Centre	Centre	Périphérie	Périphérie
+L0249	Certificat d'urbanisme	Certificat d'urbanisme	P.L.U.	PLU
+L0250	Certificat d'urbanisme	Certificat d'urbanisme	P.O.S.	POS
+L0251	Certificat d'urbanisme	Certificat d'urbanisme	Documents d'urbanisme	Document d'urbanisme
+L0252	Certificat d'urbanisme	Certificat d'urbanisme	Permis de construire	Permis de construire
+L0253	Champ urbain	Champ urbain	Accessibilité	Accessibilité
+L0254	Champ urbain	Champ urbain	Centre	Centre
+L0255	Champ urbain	Champ urbain	Densité	Densité
+L0256	Champ urbain	Champ urbain	Flux	Flux
+L0257	Champ urbain	Champ urbain	Gradient	Gradient
+L0258	Champ urbain	Champ urbain	Péri-urbanisation	Péri-urbanisation
+L0259	Champ urbain	Champ urbain	Zone d'influence	Aire d'influence
+L0260	Chaos	Chaos	Urbanisme	Urbanisme
+L0261	Charge foncière	Charge foncière	Parcellaire	Parcellaire
+L0262	Charge foncière	Charge foncière	PLU	PLU
+L0263	Charge foncière	Charge foncière	Promoteur	Promoteur
+L0264	Charge foncière	Charge foncière	Rente	Rente
+L0265	Charge foncière	Charge foncière	Spéculation	Spéculation
+L0266	Charme	Charme	Ambiance	Ambiance urbaine
+L0267	Charme	Charme	Aménité	Aménité
+L0268	Charme	Charme	Paysage	Paysage
+L0269	Charme	Charme	Sens	Sens
+L0270	Charme	Charme	Rue	Rue
+L0271	Charte d'Athènes (La)	Charte d'Athènes	Ciam	Ciam
+L0272	Charte d'Athènes (La)	Charte d'Athènes	Urbanisme	Urbanisme
+L0273	Charte de Venise (La)	Charte de Venise	Patrimoine	Patrimoine urbain
+L0274	Charte de Venise (La)	Charte de Venise	Urbanisme	Urbanisme
+L0275	Chauffage	Chauffage	Environnement	Environnement
+L0276	Chauffage	Chauffage	Déchet	Déchet ménager
+L0277	Chauffage	Chauffage	Pollution atmosphérique	Pollution atmosphérique
+L0278	Chauffage	Chauffage	Génie urbain	Génie urbain
+L0279	Ciam	Ciam	Charte d'Athènes	Charte d'Athènes
+L0280	Ciam	Ciam	Urbanisme	Urbanisme
+L0281	Cimetière	Cimetière	Promenade	Promenade
+L0282	Cimetière	Cimetière	Espace vert	Espace vert
+L0283	Cimetière	Cimetière	Monument	Monument
+L0284	Cinéma	Cinéma	Commerce	Commerce
+L0285	Cinéma	Cinéma	Image	Image
+L0286	Cinéma	Cinéma	Loisir	Loisir
+L0287	Cinéma	Cinéma	Représentation	Représentation
+L0288	Cinéma	Cinéma	Science-fiction	Science-fiction
+L0289	Cinéma	Cinéma	Service	Services
+L0290	Circulation	Circulation	Automobile	Automobile
+L0291	Circulation	Circulation	Mobilité	Mobilité
+L0292	Circulation	Circulation	Bicyclette	Bicyclette
+L0293	Circulation	Circulation	Péage	Péage
+L0294	Circulation	Circulation	Transport	Transport
+L0295	Circulation	Circulation	Voirie	Voirie
+L0296	Citadinité	Citadinité	Agora	Agora
+L0297	Citadinité	Citadinité	Citoyenneté	Citoyenneté
+L0298	Citadinité	Citadinité	Civilisation urbaine	Civilisation urbaine
+L0299	Citadinité	Citadinité	Forum	Forum
+L0300	Citadinité	Citadinité	Sociabilité	Citadinité
+L0301	Citadinité	Citadinité	Urbanité	Urbanité
+L0302	Cité	Cité	Citadinité	Citadinité
+L0303	Cité	Cité	Citoyenneté	Citoyenneté
+L0304	Cité antique	Cité antique	Histoire urbaine	Histoire urbaine
+L0305	Cité antique	Cité antique	Ville	Ville
+L0306	Cité idéale	Cité idéale	Utopie	Utopie
+L0307	Cité idéale	Cité idéale	Ville	Ville
+L0308	Cité-jardin	Cité-jardin	Hygiènisme	Hygiénisme
+L0309	Cité-jardin	Cité-jardin	Urbanisme	Urbanisme
+L0310	Cité linéaire	Cité linéaire	Urbanisme	Urbanisme
+L0311	Cité radieuse (La)	Cité radieuse	Ciam	Ciam
+L0312	Città diffusa	Città diffusa	Étalement urbain	Étalement urbain
+L0313	Città diffusa	Città diffusa	Limite	Limite
+L0314	Città diffusa	Città diffusa	Urbain	Urbain (l')
+L0315	Città diffusa	Città diffusa	Urban sprawl	Urban sprawl
+L0316	Città diffusa	Città diffusa	Zwischenstadt	Zwischenstadt
+L0317	Citoyenneté	Citoyenneté	Citadinité	Citadinité
+L0318	Citoyenneté	Citoyenneté	Exclusion	Exclusion
+L0319	Citoyenneté	Citoyenneté	Urbanité	Urbanité
+L0320	Civilisation urbaine	Civilisation urbaine	Civilité	Civilité
+L0321	Civilisation urbaine	Civilisation urbaine	Urbanisation	Urbanisation
+L0322	Civilité	Civilité	Citadinité	Citadinité
+L0323	Civilité	Civilité	Police	Police
+L0324	Civilité	Civilité	Insécurité	Insécurité
+L0325	Civilité	Civilité	Violence urbaine	Violence urbaine
+L0326	Civilité	Civilité	Droit à la ville	Droit à la ville
+L0327	Climat	Climat	Ambiance urbaine	Ambiance urbaine
+L0328	Climat	Climat	Environnement	Environnement
+L0329	Coefficient d'occupation des sols (COS)	COS	PLU	PLU
+L0330	Coefficient d'occupation des sols (COS)	COS	Droit de l'urbanisme	Droit de l'urbanisme
+L0331	Coefficient d'occupation des sols (COS)	COS	Prix foncier	Prix foncier et immobilier
+L0332	Coefficient d'occupation des sols (COS)	COS	Promoteur	Promoteur
+L0333	Commerce	Commerce	Centralité	Centralité
+L0334	Commerce	Commerce	Fonction urbaine	Fonction urbaine
+L0335	Commerce	Commerce	Marché	Marché
+L0336	Commerce	Commerce	Théorie des lieux centraux	Théorie des lieux centraux
+L0337	Commerce	Commerce	Spécialisation	Commerce
+L0338	Communauté d'agglomération	Communauté d'agglomération	Agglomération	Agglomération
+L0339	Communauté d'agglomération	Communauté d'agglomération	Commune	Commune
+L0340	Communauté d'agglomération	Communauté d'agglomération	Communauté urbaine	Communauté urbaine
+L0341	Communauté d'agglomération	Communauté d'agglomération	Fiscalité	Fiscalité
+L0342	Communauté d'agglomération	Communauté d'agglomération	Gouvernance	Gouvernance urbaine
+L0343	Communauté fermée	Communauté fermée	Enclave résidentielle	Enclave résidentielle
+L0344	Communauté fermée	Communauté fermée	Gated community	Communauté fermée
+L0345	Communauté fermée	Communauté fermée	Lotissement	Lotissement
+L0346	Communauté fermée	Communauté fermée	Espace public	Espace public
+L0347	Communauté fermée	Communauté fermée	Ségrégation	Ségrégation
+L0348	Communauté urbaine	Communauté urbaine	Agglomération	Agglomération
+L0349	Communauté urbaine	Communauté urbaine	Communauté d'agglomération	Communauté d'agglomération
+L0350	Communauté urbaine	Communauté urbaine	Gouvernance	Gouvernance urbaine
+L0351	Communauté urbaine	Communauté urbaine	Municipalité	Municipalité
+L0352	Commune	Commune	Maire	Maire
+L0353	Commune	Commune	Municipalité	Municipalité
+L0354	Communication	Communication	Fonction urbaine	Fonction urbaine
+L0355	Communication	Communication	Mobilité	Mobilité
+L0356	Communication	Communication	Marketing urbain	Marketing urbain
+L0357	Communication	Communication	Technopôle	Technopôle
+L0358	Concertation	Concertation	Acteur	Acteur
+L0359	Concertation	Concertation	Citoyenneté	Citoyenneté
+L0360	Concertation	Concertation	Droit à la ville	Droit à la ville
+L0361	Concertation	Concertation	Participation	Participation
+L0362	Concertation	Concertation	Projet urbain	Projet urbain
+L0363	Confort	Confort	Logement	Logement
+L0364	Conseil d'architecture, d'urbanisme et d'environnement (CAUE)	CAUE	Urbanisme	Urbanisme
+L0365	Conseil d'architecture, d'urbanisme et d'environnement (CAUE)	CAUE	Environnement	Environnement
+L0366	Conseil d'architecture, d'urbanisme et d'environnement (CAUE)	CAUE	Décentralisation	Décentralisation
+L0367	Contraction de l'espace-temps	Contraction de l'espace-temps	Espace urbain	Espace urbain
+L0368	Contraction de l'espace-temps	Contraction de l'espace-temps	Système de villes	Système de villes
+L0369	Contraction de l'espace-temps	Contraction de l'espace-temps	Temporalité	Temporalité
+L0370	Contraction de l'espace-temps	Contraction de l'espace-temps	Vitesse	Vitesse
+L0371	Contrat d'agglomération	Contrat d'agglomération	Agglomération	Agglomération
+L0372	Contrat d'agglomération	Contrat d'agglomération	Communauté urbaine	Communauté urbaine
+L0373	Contrat d'agglomération	Contrat d'agglomération	Documents d'urbanisme	Document d'urbanisme
+L0374	Contrat d'agglomération	Contrat d'agglomération	Politique de la ville	Politique de la ville
+L0375	Contrat d'agglomération	Contrat d'agglomération	Gouvernance urbaine	Gouvernance urbaine
+L0376	Contre-urbanisation	Contre-urbanisation	Déclin urbain	Déclin urbain
+L0377	Contre-urbanisation	Contre-urbanisation	Déconcentration	Déconcentration
+L0378	Contre-urbanisation	Contre-urbanisation	Étalement urbain	Étalement urbain
+L0379	Contre-urbanisation	Contre-urbanisation	Métropolisation	Métropolisation
+L0380	Contre-urbanisation	Contre-urbanisation	Urban sprawl	Urban sprawl
+L0381	Conurbation	Conurbation	Agglomération	Agglomération
+L0382	Conurbation	Conurbation	Aire métropolitaine	Aire métropolitaine
+L0383	Couleur	Couleur	Art urbain	Art urbain
+L0384	Couleur	Couleur	Ambiance urbaine	Ambiance urbaine
+L0385	Couleur	Couleur	Mobilier urbain	Mobilier urbain
+L0386	Couleur	Couleur	Tag	Tag
+L0387	Couleur	Couleur	Patrimoine	Patrimoine urbain
+L0388	Croissance urbaine	Croissance urbaine	Développement durable	Développement durable
+L0389	Croissance urbaine	Croissance urbaine	Urbanisation	Urbanisation
+L0390	Cyberespace	Cyberespace	Communication	Communication
+L0391	Cyberespace	Cyberespace	Informatique	Informatique
+L0392	Cyberespace	Cyberespace	Télécommunication	Télécommunication
+L0393	DATAR	DATAR	Aménagement du territoire	Aménagement du territoire
+L0394	DATAR	DATAR	Métropole d'équilibre	Métropole d'équilibre
+L0395	DATAR	DATAR	Réseau de villes	Réseau urbain
+L0396	Décentralisation	Décentralisation	Aménagement du territoire	Aménagement du territoire
+L0397	Décentralisation	Décentralisation	Permis de construire	Permis de construire
+L0398	Décentralisation	Décentralisation	Pouvoir	Décentralisation
+L0399	Déchet ménager	Déchet ménager	Commune	Commune
+L0400	Déchet ménager	Déchet ménager	Environnement	Environnement
+L0401	Déchet ménager	Déchet ménager	Poubelle	Poubelle
+L0402	Déclin urbain	Déclin urbain	Contre-urbanisation	Contre-urbanisation
+L0403	Déclin urbain	Déclin urbain	Déconcentration	Déconcentration
+L0404	Déclin urbain	Déclin urbain	Étalement urbain	Étalement urbain
+L0405	Déconcentration	Déconcentration	Déclin urbain	Déclin urbain
+L0406	Déconcentration	Déconcentration	Edge city	Edge city
+L0407	Déconcentration	Déconcentration	Métropolisation	Métropolisation
+L0408	Decumanus	Decumanus	Cardo	Cardo
+L0409	Decumanus	Decumanus	Cité antique	Cité antique
+L0410	Decumanus	Decumanus	Voirie	Voirie
+L0411	Densité	Densité	Développement durable	Développement durable
+L0412	Densité	Densité	Fractale	Fractale
+L0413	Densité	Densité	Gradient	Gradient
+L0414	Densité	Densité	Morphologie	Morphologie
+L0415	Dérive	Dérive	Badaud	Badaud
+L0416	Dérive	Dérive	Promenade	Promenade
+L0417	Dérive	Dérive	Urbanisme	Urbanisme
+L0418	Développement durable	Développement durable	Croissance urbaine	Croissance urbaine
+L0419	Développement durable	Développement durable	Écologie urbaine	Écologie urbaine
+L0420	Développement durable	Développement durable	Environnement	Environnement
+L0421	Développement durable	Développement durable	Ville durable	Ville durable
+L0422	Discontinuité	Discontinuité	Barrière	Barrière
+L0423	Discontinuité	Discontinuité	Limite	Limite
+L0424	Discrimination	Discrimination	Citoyenneté	Citoyenneté
+L0425	Discrimination	Discrimination	Exclusion	Exclusion
+L0426	Discrimination	Discrimination	Politique de la ville	Politique de la ville
+L0427	Discrimination	Discrimination	Ségrégation	Ségrégation
+L0428	Disparité	Disparité	Droit à la ville	Droit à la ville
+L0429	Disparité	Disparité	Ségrégation	Ségrégation
+L0430	Distance	Distance	Accessibilité	Accessibilité
+L0431	Distance	Distance	Barrière	Barrière
+L0432	Distance	Distance	Communication	Communication
+L0433	Distance	Distance	Flux	Flux
+L0434	Distance	Distance	Gradient	Gradient
+L0435	Distance	Distance	Information	Information
+L0436	Distance	Distance	Interaction	Distance
+L0437	Distance	Distance	Mobilité	Mobilité
+L0438	Distance	Distance	Portée	Portée
+L0439	Distance	Distance	Théorie des lieux centraux	Théorie des lieux centraux
+L0440	District	District	Communauté d'agglomération	Communauté d'agglomération
+L0441	Division spatiale	Division spatiale	Îlot	Îlot
+L0442	Division spatiale	Division spatiale	Quartier	Quartier
+L0443	Division spatiale	Division spatiale	Parcellaire	Parcellaire
+L0444	Division spatiale	Division spatiale	Discontinuité	Discontinuité
+L0445	Division spatiale	Division spatiale	Système d'information géographique	Système d'information géographique
+L0446	Document d'urbanisme	Document d'urbanisme	Planification urbaine	Planification urbaine
+L0447	Document d'urbanisme	Document d'urbanisme	PDU	PDU
+L0448	Document d'urbanisme	Document d'urbanisme	PLU	PLU
+L0449	Document d'urbanisme	Document d'urbanisme	POS	POS
+L0450	Document d'urbanisme	Document d'urbanisme	Schéma directeur	Schéma directeur
+L0451	Document d'urbanisme	Document d'urbanisme	SCOT	SCOT
+L0452	Document d'urbanisme	Document d'urbanisme	ZAC	ZAC
+L0453	Document d'urbanisme	Document d'urbanisme	Urbanisme	Urbanisme
+L0454	Domaine public	Domaine public	Commune	Commune
+L0455	Domaine public	Domaine public	Droit à la ville	Droit à la ville
+L0456	Domaine public	Domaine public	Espace public	Espace public
+L0457	Domicile	Domicile	Habitat	Habitat
+L0458	Domicile	Domicile	Logement	Logement
+L0459	Domicile	Domicile	Maison	Maison
+L0460	Downtown	Downtown	CBD	CBD
+L0461	Doxa	Doxa	Citadin	Doxa
+L0462	Doxa	Doxa	Urbanité	Urbanité
+L0463	Drogue	Drogue	Insécurité	Insécurité
+L0464	Drogue	Drogue	Grand ensemble	Grand ensemble
+L0465	Drogue	Drogue	Exclusion	Exclusion
+L0466	Drogue	Drogue	Police	Police
+L0467	Droit à la ville	Droit à la ville	Exclusion	Exclusion
+L0468	Droit à la ville	Droit à la ville	HBM	HBM
+L0469	Droit à la ville	Droit à la ville	Politique de la ville	Politique de la ville
+L0470	Droit de l'urbanisme	Droit de l'urbanisme	Documents d'urbanisme	Document d'urbanisme
+L0471	Droit de l'urbanisme	Droit de l'urbanisme	Enquête publique	Enquête publique
+L0472	Droit de l'urbanisme	Droit de l'urbanisme	Expropriation	Expropriation
+L0473	Droit de l'urbanisme	Droit de l'urbanisme	Permis de construire	Permis de construire
+L0474	Droit de l'urbanisme	Droit de l'urbanisme	PLU	PLU
+L0475	Droit de l'urbanisme	Droit de l'urbanisme	SCOT	SCOT
+L0476	Droit de l'urbanisme	Droit de l'urbanisme	Urbanisme	Urbanisme
+L0477	DSQ	DSQ	Politique de la ville	Politique de la ville
+L0478	DSQ	DSQ	Zones franches urbaines	Zone franche urbaine
+L0479	DSQ	DSQ	Zones urbaines sensibles	Zone urbaine sensible
+L0480	Eau	Eau	Aqueduc	Aqueduc
+L0481	Eau	Eau	Assainissement	Assainissement
+L0482	Eau	Eau	Berge	Berge
+L0483	Eau	Eau	Climat	Climat
+L0484	Eau	Eau	Développement durable	Développement durable
+L0485	Eau	Eau	Écologie	Écologie
+L0486	Eau	Eau	Réseau technique	Réseaux techniques
+L0487	Eau	Eau	Situation	Situation
+L0488	Échelle	Échelle	Acteur	Acteur
+L0489	Échelle	Échelle	Carte	Carte
+L0490	Échelle	Échelle	Hiérarchie	Hiérarchie
+L0491	Échelle	Échelle	Ville	Ville
+L0492	Échelle	Échelle	Système de villes	Système de villes
+L0493	Échelle	Échelle	Temporalité urbaine	Temporalité
+L0494	Écodéveloppement	Écodéveloppement	Écologie	Écologie
+L0495	Écodéveloppement	Écodéveloppement	Croissance urbaine	Croissance urbaine
+L0496	Écodéveloppement	Écodéveloppement	Développement durable	Développement durable
+L0497	École de Chicago	École de Chicago	Architecture	Architecture urbaine
+L0498	École de Chicago	École de Chicago	Écologie urbaine	Écologie urbaine
+L0499	École de Chicago	École de Chicago	Ségrégation	Ségrégation
+L0500	École de Chicago	École de Chicago	Sociologie urbaine	Sociologie urbaine
+L0501	École de Chicago	École de Chicago	Urbanisme	Urbanisme
+L0502	École de Chicago	École de Chicago	CBD	CBD
+L0503	Écologie	Écologie	Développement durable	Développement durable
+L0504	Écologie	Écologie	Environnement	Environnement
+L0505	Écologie urbaine	Écologie urbaine	Environnement	Environnement
+L0506	Écologie urbaine	Écologie urbaine	Ségrégation	Ségrégation
+L0507	Écologie urbaine	Écologie urbaine	École de Chicago	École de Chicago
+L0508	Écologie urbaine	Écologie urbaine	Développement durable	Développement durable
+L0509	Économie urbaine	Économie urbaine	Base économique	Base économique
+L0510	Économie urbaine	Économie urbaine	Budget	Budget
+L0511	Économie urbaine	Économie urbaine	Équilibre	Équilibre
+L0512	Économie urbaine	Économie urbaine	Espace urbain	Espace urbain
+L0513	Économie urbaine	Économie urbaine	Fonction urbaine	Fonction urbaine
+L0514	Économie urbaine	Économie urbaine	Modèle	Modèle
+L0515	Edge city	Edge city	Banlieue	Banlieue
+L0516	Edge city	Edge city	Péri-urbain	Péri-urbanisation
+L0517	Edge city	Edge city	Polycentrisme	Edge city
+L0518	Edge city	Edge city	Ville émergente	Ville émergente
+L0519	Égout	Égout	Eau	Eau
+L0520	Égout	Égout	Assainissement	Assainissement
+L0521	Égout	Égout	Hygiène	Hygiénisme
+L0522	Égout	Égout	Pollution	Pollution atmosphérique
+L0523	Égout	Égout	Réseau technique	Réseaux techniques
+L0524	Enchaînement historique	Enchaînement historique	Équilibre	Équilibre
+L0525	Enchaînement historique	Enchaînement historique	Innovation	Innovation
+L0526	Enchaînement historique	Enchaînement historique	Mémoire	Mémoire
+L0527	Enchaînement historique	Enchaînement historique	Système de villes	Système de villes
+L0528	Enchaînement historique	Enchaînement historique	Temporalité	Temporalité
+L0529	Enclave résidentielle	Enclave résidentielle	Communauté fermée	Communauté fermée
+L0530	Enclave résidentielle	Enclave résidentielle	Gated community	Enclave résidentielle
+L0531	Enclave résidentielle	Enclave résidentielle	Insécurité	Insécurité
+L0532	Enclave résidentielle	Enclave résidentielle	Ségrégation	Ségrégation
+L0533	Enclave résidentielle	Enclave résidentielle	Violence urbaine	Violence urbaine
+L0534	Enquête publique	Enquête publique	Expropriation	Expropriation
+L0535	Enquête publique	Enquête publique	Participation	Participation
+L0536	Enquête publique	Enquête publique	Planification urbaine	Planification urbaine
+L0537	Enquête publique	Enquête publique	Propriétaire	Propriétaire
+L0538	Environnement	Environnement	Nature	Nature
+L0539	Environnement	Environnement	Écologie	Écologie
+L0540	Environnement	Environnement	Nimby	Nimby
+L0541	Environnement	Environnement	Pollution	Pollution atmosphérique
+L0542	Équilibre	Équilibre	Aménagement du territoire	Aménagement du territoire
+L0543	Équilibre	Équilibre	Économie urbaine	Économie urbaine
+L0544	Équilibre	Équilibre	Métropole	Métropole
+L0545	Équilibre	Équilibre	Système de villes	Système de villes
+L0546	Équilibre	Équilibre	Théorie des lieux centraux	Théorie des lieux centraux
+L0547	Espace public	Espace public	Cité	Cité
+L0548	Espace public	Espace public	Civilité	Civilité
+L0549	Espace public	Espace public	Communication	Communication
+L0550	Espace urbain	Espace urbain	Ambiance urbaine	Ambiance urbaine
+L0551	Espace urbain	Espace urbain	Champ urbain	Champ urbain
+L0552	Espace urbain	Espace urbain	Circulation	Circulation
+L0553	Espace urbain	Espace urbain	Distance	Distance
+L0554	Espace urbain	Espace urbain	Division spatiale	Division spatiale
+L0555	Espace urbain	Espace urbain	Fractale	Fractale
+L0556	Espace urbain	Espace urbain	Gradient	Gradient
+L0557	Espace urbain	Espace urbain	Mobilité	Mobilité
+L0558	Espace urbain	Espace urbain	Perception	Perception
+L0559	Espace urbain	Espace urbain	Représentation	Représentation
+L0560	Espace urbain	Espace urbain	Ségrégation	Ségrégation
+L0561	Espace urbain	Espace urbain	Urbanologie	Urbanologie
+L0562	Espace vert	Espace vert	Parc	Parc
+L0563	Espace vert	Espace vert	Environnement	Environnement
+L0564	Espace vert	Espace vert	Nature	Nature
+L0565	Établissement humain	Établissement humain	Agglomération	Agglomération
+L0566	Établissement humain	Établissement humain	Habitat	Habitat
+L0567	Établissement humain	Établissement humain	Logement	Logement
+L0568	Établissement humain	Établissement humain	Ville	Ville
+L0569	Étalement urbain	Étalement urbain	Aire urbaine	Aire urbaine
+L0570	Étalement urbain	Étalement urbain	Banlieue	Banlieue
+L0571	Étalement urbain	Étalement urbain	Città diffusa	Città diffusa
+L0572	Étalement urbain	Étalement urbain	Communauté fermée	Communauté fermée
+L0573	Étalement urbain	Étalement urbain	Croissance urbaine	Croissance urbaine
+L0574	Étalement urbain	Étalement urbain	Edge city	Edge city
+L0575	Étalement urbain	Étalement urbain	Enclave résidentielle	Enclave résidentielle
+L0576	Étalement urbain	Étalement urbain	Gated community	Étalement urbain
+L0577	Étalement urbain	Étalement urbain	Péri-urbanisation	Péri-urbanisation
+L0578	Étalement urbain	Étalement urbain	Urban sprawl	Urban sprawl
+L0579	Exclusion	Exclusion	Ségrégation sociale	Ségrégation
+L0580	Exclusion	Exclusion	Pauvreté	Pauvreté
+L0581	Exclusion	Exclusion	Bidonville	Bidonville
+L0582	Exclusion	Exclusion	Périphérie	Périphérie
+L0583	Expropriation	Expropriation	Enquête publique	Enquête publique
+L0584	Expropriation	Expropriation	Rénovation	Rénovation
+L0585	Expropriation	Expropriation	PLU	PLU
+L0586	Expropriation	Expropriation	Droit de l'urbanisme	Droit de l'urbanisme
+L0587	Expropriation	Expropriation	Propriétaire	Propriétaire
+L0588	Expulsion	Expulsion	Propriété	Propriétaire
+L0589	Expulsion	Expulsion	Exclusion	Exclusion
+L0590	Expulsion	Expulsion	Logement	Logement
+L0591	Exurbanisation	Exurbanisation	Étalement urbain	Étalement urbain
+L0592	Exurbanisation	Exurbanisation	Péri-urbanisation	Péri-urbanisation
+L0593	Exurbanisation	Exurbanisation	Rurbanisation	Rurbanisation
+L0594	Exurbanisation	Exurbanisation	Township	Township
+L0595	Façadisme	Façadisme	Urbanisme	Urbanisme
+L0596	Façadisme	Façadisme	Rue	Rue
+L0597	Façadisme	Façadisme	Rénovation	Rénovation
+L0598	Faubourg	Faubourg	Banlieue	Banlieue
+L0599	Faubourg	Faubourg	Bourg	Bourg
+L0600	Faubourg	Faubourg	Bidonville	Bidonville
+L0601	Fête	Fête	Foule	Foule
+L0602	Fête	Fête	Imaginaire urbain	Imaginaire urbain
+L0603	Fiscalité	Fiscalité	Budget	Budget
+L0604	Fiscalité	Fiscalité	Commune	Commune
+L0605	Fiscalité	Fiscalité	Communauté d'agglomération	Communauté d'agglomération
+L0606	Fiscalité	Fiscalité	Impôt	Fiscalité
+L0607	Fiscalité	Fiscalité	Taxe professionnelle	Taxe professionnelle
+L0608	Flâneur	Flâneur	Foule	Foule
+L0609	Flâneur	Flâneur	Badaud	Badaud
+L0610	Flâneur	Flâneur	Paysage	Paysage
+L0611	Flux	Flux	Circulation	Circulation
+L0612	Flux	Flux	Modèle gravitaire	Modèle
+L0613	Flux	Flux	Mobilité	Mobilité
+L0614	Flux	Flux	Navettes	Navette
+L0615	Flux	Flux	Réseau	Réseau
+L0616	Flux	Flux	Transport	Transport
+L0617	Foire	Foire	Commerce	Commerce
+L0618	Foire	Foire	Fonction urbaine	Fonction urbaine
+L0619	Foire	Foire	Marché	Marché
+L0620	Fonction urbaine	Fonction urbaine	Armature urbaine	Armature urbaine
+L0621	Fonction urbaine	Fonction urbaine	Base économique	Base économique
+L0622	Fonction urbaine	Fonction urbaine	Géographie urbaine	Géographie urbaine
+L0623	Fonction urbaine	Fonction urbaine	Image	Image
+L0624	Fonction urbaine	Fonction urbaine	Service	Services
+L0625	Fonction urbaine	Fonction urbaine	Spécialisation	Fonction urbaine
+L0626	Fonction urbaine	Fonction urbaine	Système de villes	Système de villes
+L0627	Fonction urbaine	Fonction urbaine	Ville internationale	Ville internationale
+L0628	Fontaine	Fontaine	Art urbain	Art urbain
+L0629	Fontaine	Fontaine	Eau	Eau
+L0630	Fontaine	Fontaine	Patrimoine	Patrimoine urbain
+L0631	Forme urbaine	Forme urbaine	Axe	Axe
+L0632	Forme urbaine	Forme urbaine	Carte	Carte
+L0633	Forme urbaine	Forme urbaine	Étalement urbain	Étalement urbain
+L0634	Forme urbaine	Forme urbaine	Image	Image
+L0635	Forme urbaine	Forme urbaine	Morphologie	Morphologie
+L0636	Forme urbaine	Forme urbaine	Perception	Perception
+L0637	Forme urbaine	Forme urbaine	Plan	Plan
+L0638	Forme urbaine	Forme urbaine	Représentation	Représentation
+L0639	Forme urbaine	Forme urbaine	Urbanisme	Urbanisme
+L0640	Forme urbaine	Forme urbaine	Tissu urbain	Tissu urbain
+L0641	Fortification	Fortification	Barrière	Barrière
+L0642	Fortification	Fortification	Guerre	Guerre
+L0643	Forum	Forum	Fouille	Fouille
+L0644	Forum	Forum	Patrimoine	Patrimoine urbain
+L0645	Forum	Forum	Agora	Agora
+L0646	Forum	Forum	Espace public	Espace public
+L0647	Fouille	Fouille	Patrimoine	Patrimoine urbain
+L0648	Fouille	Fouille	Tourisme	Tourisme
+L0649	Foule	Foule	Badaud	Badaud
+L0650	Foule	Foule	Fête	Fête
+L0651	Fractale	Fractale	Morphologie urbaine	Morphologie
+L0652	Fractale	Fractale	Densité	Densité
+L0653	Fractale	Fractale	Espace urbain	Espace urbain
+L0654	Fractale	Fractale	Gradient	Gradient
+L0655	Fractale	Fractale	Forme	Forme urbaine
+L0656	Fractale	Fractale	Hiérarchie	Hiérarchie
+L0657	Fragmentation sociale	Fragmentation sociale	Communauté fermée	Communauté fermée
+L0658	Fragmentation sociale	Fragmentation sociale	Exclusion	Exclusion
+L0659	Fragmentation sociale	Fragmentation sociale	Ghetto	Ghetto
+L0660	Fragmentation sociale	Fragmentation sociale	Identité	Identité
+L0661	Fragmentation sociale	Fragmentation sociale	Ségrégation	Ségrégation
+L0662	Friche	Friche	Parcellaire	Parcellaire
+L0663	Friche	Friche	Renouvellement urbain	Rénovation
+L0664	Friche	Friche	Urbanisme	Urbanisme
+L0665	Gare	Gare	Transport	Transport
+L0666	Gare	Gare	Infrastructure	Infrastructures
+L0667	Génie urbain	Génie urbain	Assainissement	Assainissement
+L0668	Génie urbain	Génie urbain	BTP	BTP
+L0669	Génie urbain	Génie urbain	Commune	Commune
+L0670	Génie urbain	Génie urbain	Infrastructures	Infrastructures
+L0671	Génie urbain	Génie urbain	Ingénieur	Ingénieur
+L0672	Génie urbain	Génie urbain	Réseaux techniques	Réseaux techniques
+L0673	Génie urbain	Génie urbain	Maire	Maire
+L0674	Genre	Genre	Identité	Identité
+L0675	Genre	Genre	Population	Population
+L0676	Gentrification	Gentrification	Bourgeois	Bourgeois
+L0677	Gentrification	Gentrification	Exclusion	Exclusion
+L0678	Gentrification	Gentrification	Ségrégation	Ségrégation
+L0679	Gentrification	Gentrification	Rénovation urbaine	Rénovation
+L0680	Géographie urbaine	Géographie urbaine	Écologie	Écologie
+L0681	Géographie urbaine	Géographie urbaine	Fonction	Géographie urbaine
+L0682	Géographie urbaine	Géographie urbaine	Réseau urbain	Réseau urbain
+L0683	Géographie urbaine	Géographie urbaine	Site	Site
+L0684	Géographie urbaine	Géographie urbaine	Situation	Situation
+L0685	Géographie urbaine	Géographie urbaine	Sociologie	Sociologie urbaine
+L0686	Géographie urbaine	Géographie urbaine	Système de villes	Système de villes
+L0687	Ghetto	Ghetto	Discrimination	Discrimination
+L0688	Ghetto	Ghetto	Exclusion	Exclusion
+L0689	Ghetto	Ghetto	Citadinité	Citadinité
+L0690	Ghetto	Ghetto	Violence	Violence urbaine
+L0691	Ghetto	Ghetto	Identité	Identité
+L0692	Ghetto	Ghetto	Ethnie	Ghetto
+L0693	Gouvernance urbaine	Gouvernance urbaine	Maire	Maire
+L0694	Gouvernance urbaine	Gouvernance urbaine	Acteur	Acteur
+L0695	Gouvernance urbaine	Gouvernance urbaine	Politique de la ville	Politique de la ville
+L0696	Gradient	Gradient	Champ urbain	Champ urbain
+L0697	Gradient	Gradient	Espace urbain	Espace urbain
+L0698	Gradient	Gradient	Densité	Densité
+L0699	Gradient	Gradient	Forme	Forme urbaine
+L0700	Gradient	Gradient	Fractale	Fractale
+L0701	Gradient	Gradient	Morphologie	Morphologie
+L0702	Graffiti	Graffiti	Argot	Argot
+L0703	Graffiti	Graffiti	Citadinité	Citadinité
+L0704	Graffiti	Graffiti	Espace public	Espace public
+L0705	Graffiti	Graffiti	Métro	Métropolitain
+L0706	Graffiti	Graffiti	Rue	Rue
+L0707	Graffiti	Graffiti	Tag	Tag
+L0708	Grand ensemble	Grand ensemble	ANRU	ANRU
+L0709	Grand ensemble	Grand ensemble	Barre	Barre
+L0710	Grand ensemble	Grand ensemble	DSQ	DSQ
+L0711	Grand ensemble	Grand ensemble	HBM	HBM
+L0712	Grand ensemble	Grand ensemble	HLM	HLM
+L0713	Grand ensemble	Grand ensemble	Logement	Logement
+L0714	Grand ensemble	Grand ensemble	Maîtrise foncière	Maîtrise foncière
+L0715	Grand ensemble	Grand ensemble	Planification urbaine	Planification urbaine
+L0716	Grand ensemble	Grand ensemble	Politique de la ville	Politique de la ville
+L0717	Grand ensemble	Grand ensemble	Urbanisme	Urbanisme
+L0718	Grand ensemble	Grand ensemble	ZUP	ZUP
+L0719	Grand magasin	Grand magasin	Commerce	Commerce
+L0720	Grand magasin	Grand magasin	Fonction urbaine	Fonction urbaine
+L0721	Grand magasin	Grand magasin	Immeuble	Immeuble
+L0722	Gravitaire	NA	Modèle	NA
+L0723	Guérilla urbaine	Guérilla urbaine	Guerre	Guerre
+L0724	Guérilla urbaine	Guérilla urbaine	Violences urbaines	Violence urbaine
+L0725	Guerre	Guerre	Fortification	Fortification
+L0726	Guerre	Guerre	Guérilla urbaine	Guérilla urbaine
+L0727	Habitant	Habitant	Acteur	Acteur
+L0728	Habitant	Habitant	Identité	Identité
+L0729	Habitant	Habitant	Population	Population
+L0730	Habitat	Habitat	Anthropologie de l'espace	Anthropologie de l'espace
+L0731	Habitat	Habitat	Bidonville	Bidonville
+L0732	Habitat	Habitat	Développement durbale	Développement durable
+L0733	Habitat	Habitat	Domicile	Domicile
+L0734	Habitat	Habitat	Écologie	Écologie
+L0735	Habitat	Habitat	Établissement humain	Établissement humain
+L0736	Habitat	Habitat	Forme	Forme urbaine
+L0737	Habitat	Habitat	Immeuble	Immeuble
+L0738	Habitat	Habitat	Logement	Logement
+L0739	Habitat	Habitat	Maison	Maison
+L0740	Habitat	Habitat	Résidence	Résidence
+L0741	Habitat	Habitat	Voisinage	Voisinage
+L0742	Habitation à loyer modéré (HLM)	HLM	Grand ensemble	Grand ensemble
+L0743	Habitation à loyer modéré (HLM)	HLM	Logement	Logement
+L0744	Habitation à loyer modéré (HLM)	HLM	Exclusion	Exclusion
+L0745	Habitation à loyer modéré (HLM)	HLM	Urbanisme	Urbanisme
+L0746	Habitation à bon marché (HBM)	HBM	HLM	HLM
+L0747	Habitation à bon marché (HBM)	HBM	Exclusion	Exclusion
+L0748	Habitation à bon marché (HBM)	HBM	Urbanisme	Urbanisme
+L0749	Halle	Halle	Commerce	Commerce
+L0750	Halle	Halle	Marché	Marché
+L0751	Haussmannisation	Haussmannisation	Urbanisme	Urbanisme
+L0752	Hiérarchie	Hiérarchie	Contraction espace-temps	Contraction de l'espace-temps
+L0753	Hiérarchie	Hiérarchie	Échelle	Échelle
+L0754	Hiérarchie	Hiérarchie	Loi rang-taille	Loi rang-taille
+L0755	Hiérarchie	Hiérarchie	Théorie des lieux centraux	Théorie des lieux centraux
+L0756	Hiérarchie	Hiérarchie	Système de villes	Système de villes
+L0757	Histoire de l'urbanisme	Histoire de l'urbanisme	Histoire urbaine	Histoire urbaine
+L0758	Histoire de l'urbanisme	Histoire de l'urbanisme	Histoire des villes	Histoire des villes
+L0759	Histoire de l'urbanisme	Histoire de l'urbanisme	Planification urbaine	Planification urbaine
+L0760	Histoire de l'urbanisme	Histoire de l'urbanisme	Urbanisme	Urbanisme
+L0761	Histoire urbaine	Histoire urbaine	Cité antique	Cité antique
+L0762	Histoire urbaine	Histoire urbaine	Contraction espace-temps	Contraction de l'espace-temps
+L0763	Histoire urbaine	Histoire urbaine	Histoire de l'urbanisme	Histoire de l'urbanisme
+L0764	Histoire urbaine	Histoire urbaine	Histoire des villes	Histoire des villes
+L0765	Histoire urbaine	Histoire urbaine	Temporalité	Temporalité
+L0766	Histoire urbaine	Histoire urbaine	Urbanisation	Urbanisation
+L0767	Histoire urbaine	Histoire urbaine	Ville	Ville
+L0768	Histoire des villes	Histoire des villes	Histoire urbaine	Histoire urbaine
+L0769	Histoire des villes	Histoire des villes	Ville	Ville
+L0770	Hobo	Hobo	Exclusion	Exclusion
+L0771	Hobo	Hobo	Pauvreté	Pauvreté
+L0772	Hobo	Hobo	Squat	Squat
+L0773	Hôpital	Hôpital	Fonction urbaine	Fonction urbaine
+L0774	Hôpital	Hôpital	Infrastructure	Infrastructures
+L0775	Hôpital	Hôpital	Hygiènisme	Hygiénisme
+L0776	Hôpital	Hôpital	Services	Services
+L0777	Hospitalité	Hospitalité	Exclusion	Exclusion
+L0778	Hospitalité	Hospitalité	Fragmentation	Fragmentation sociale
+L0779	Hospitalité	Hospitalité	Ségrégation sociale	Ségrégation
+L0780	Hygiénisme	Hygiénisme	Cité-jardin	Cité-jardin
+L0781	Hygiénisme	Hygiénisme	Environnement	Environnement
+L0782	Hygiénisme	Hygiénisme	Urbanisme	Urbanisme
+L0783	Identité	Identité	Habitant	Habitant
+L0784	Identité	Identité	Marketing urbain	Marketing urbain
+L0785	Identité	Identité	Représentation	Représentation
+L0786	Illégalité	Illégalité	Établissement humain	Établissement humain
+L0787	Illégalité	Illégalité	Habitat	Habitat
+L0788	Illégalité	Illégalité	ONG	ONG
+L0789	Illégalité	Illégalité	Politique de la ville	Politique de la ville
+L0790	Îlot	Îlot	Division spatiale	Division spatiale
+L0791	Îlot	Îlot	HBM	HBM
+L0792	Îlot	Îlot	Haussmanisation	Haussmannisation
+L0793	Îlot	Îlot	Pâté	Pâté
+L0794	Îlot	Îlot	Tissu urbain	Tissu urbain
+L0795	Image	Image	Affiche	Affiche
+L0796	Image	Image	Imaginaire	Imaginaire urbain
+L0797	Image	Image	Fonction urbaine	Fonction urbaine
+L0798	Image	Image	Marketing urbain	Marketing urbain
+L0799	Image	Image	Plan	Plan
+L0800	Image	Image	Représentation	Représentation
+L0801	Image	Image	Système d'information géographique	Système d'information géographique
+L0802	Imaginaire urbain	Imaginaire urbain	Identité	Identité
+L0803	Imaginaire urbain	Imaginaire urbain	Science-fiction	Science-fiction
+L0804	Imaginaire urbain	Imaginaire urbain	Urbain	Urbain (l')
+L0805	Immeuble	Immeuble	Architecture urbaine	Architecture urbaine
+L0806	Immeuble	Immeuble	Barre	Barre
+L0807	Immeuble	Immeuble	CBD	CBD
+L0808	Immeuble	Immeuble	Maison	Maison
+L0809	Immeuble	Immeuble	Prix immobiliers	Prix foncier et immobilier
+L0810	Immeuble	Immeuble	Rente	Rente
+L0811	Impôt	NA	Fiscalité	NA
+L0812	Incendie	Incendie	Insécurité	Insécurité
+L0813	Incendie	Incendie	Risque	Risque
+L0814	Incendie	Incendie	Ruine	Ruine
+L0815	Incivilité	Incivilité	Civilité	Civilité
+L0816	Incivilité	Incivilité	Police	Police
+L0817	Incivilité	Incivilité	Insécurité	Insécurité
+L0818	Incivilité	Incivilité	Droit à la ville	Droit à la ville
+L0819	Incivilité	Incivilité	Exclusion	Exclusion
+L0820	Incivilité	Incivilité	Ghetto	Ghetto
+L0821	Incivilité	Incivilité	Ségrégation	Ségrégation
+L0822	Industrie	Industrie	Base économique	Base économique
+L0823	Industrie	Industrie	Fonction urbaine	Fonction urbaine
+L0824	Industrie	Industrie	Spécialisation	Industrie
+L0825	Industrie	Industrie	Technopôle	Technopôle
+L0826	Information	Information	Communication	Communication
+L0827	Information	Information	Diffusion	Information
+L0828	Information	Information	Informatique	Informatique
+L0829	Information	Information	Système de villes	Système de villes
+L0830	Information	Information	Télécommunication	Télécommunication
+L0831	Informatique	Informatique	Gouvernance	Gouvernance urbaine
+L0832	Informatique	Informatique	Information	Information
+L0833	Informatique	Informatique	Réseaux techniques	Réseaux techniques
+L0834	Informatique	Informatique	Technopôle	Technopôle
+L0835	Infrastructures	Infrastructures	Aménagement	Aménagement du territoire
+L0836	Infrastructures	Infrastructures	Égout	Égout
+L0837	Infrastructures	Infrastructures	Équipement	Infrastructures
+L0838	Infrastructures	Infrastructures	Réseau	Réseau
+L0839	Infrastructures	Infrastructures	Transport	Transport
+L0840	Infrastructures	Infrastructures	Urbanisme	Urbanisme
+L0841	Ingénieur	Ingénieur	Alignement	Alignement
+L0842	Ingénieur	Ingénieur	Architecture urbaine	Architecture urbaine
+L0843	Ingénieur	Ingénieur	Assainissement	Assainissement
+L0844	Ingénieur	Ingénieur	Génie urbain	Génie urbain
+L0845	Ingénieur	Ingénieur	Planification urbaine	Planification urbaine
+L0846	Ingénieur	Ingénieur	Réseaux techniques	Réseaux techniques
+L0847	Ingénieur	Ingénieur	Urbanisme	Urbanisme
+L0848	Ingénieur	Ingénieur	Voirie	Voirie
+L0849	Innovation	Innovation	Base économique	Base économique
+L0850	Innovation	Innovation	Fonction urbaine	Fonction urbaine
+L0851	Innovation	Innovation	Information	Information
+L0852	Innovation	Innovation	Réseau technique	Réseaux techniques
+L0853	Innovation	Innovation	Réseau urbain	Réseau urbain
+L0854	Innovation	Innovation	Spécialisation	Innovation
+L0855	Innovation	Innovation	Système de villes	Système de villes
+L0856	Innovation	Innovation	Ville	Ville
+L0857	Insalubrité	Insalubrité	Bidonville	Bidonville
+L0858	Insalubrité	Insalubrité	Logement	Logement
+L0859	Insalubrité	Insalubrité	Hygiénisme	Hygiénisme
+L0860	Insalubrité	Insalubrité	Îlot	Îlot
+L0861	Insalubrité	Insalubrité	Réhabilitation	Réhabilitation
+L0862	Insalubrité	Insalubrité	Rénovation	Rénovation
+L0863	Insécurité	Insécurité	Éclairage	Insécurité
+L0864	Insécurité	Insécurité	Grand ensemble	Grand ensemble
+L0865	Insécurité	Insécurité	Nuit	Nuit
+L0866	Insécurité	Insécurité	Métro	Métropolitain
+L0867	Insécurité	Insécurité	Police	Police
+L0868	Interurbain	Interurbain	Échelle	Échelle
+L0869	Interurbain	Interurbain	Réseau urbain	Réseau urbain
+L0870	Interurbain	Interurbain	Système de villes	Système de villes
+L0871	Jardin ouvrier	Jardin ouvrier	Paysage	Paysage
+L0872	Jardin ouvrier	Jardin ouvrier	Services	Services
+L0873	Jardin public	Jardin public	Arbre	Arbre
+L0874	Jardin public	Jardin public	Espace vert	Espace vert
+L0875	Jardin public	Jardin public	Loisirs	Loisir
+L0876	Jardin public	Jardin public	Parc	Parc
+L0877	Jardin zoologique	NA	Zoo	NA
+L0878	Labyrinthe	Labyrinthe	Jardin public	Jardin public
+L0879	Labyrinthe	Labyrinthe	Parc	Parc
+L0880	Labyrinthe	Labyrinthe	Voirie	Voirie
+L0881	Lieu et non-lieu	Lieu et non-lieu	Espace urbain	Espace urbain
+L0882	Lieu et non-lieu	Lieu et non-lieu	Loisir	Loisir
+L0883	Lieu et non-lieu	Lieu et non-lieu	Mobilité	Mobilité
+L0884	Lieu et non-lieu	Lieu et non-lieu	Tourisme	Tourisme
+L0885	Lieu de culte	Lieu de culte	Cathédrale	Cathédrale
+L0886	Lieu de culte	Lieu de culte	Identité	Identité
+L0887	Lieu de culte	Lieu de culte	Paroisse	Paroisse
+L0888	Lieu de culte	Lieu de culte	Quartier	Quartier
+L0889	Limite	Limite	Aire d'influence	Aire d'influence
+L0890	Limite	Limite	Aire métropolitaine	Aire métropolitaine
+L0891	Limite	Limite	Aire urbaine	Aire urbaine
+L0892	Limite	Limite	Barrière	Barrière
+L0893	Limite	Limite	Città diffusa	Città diffusa
+L0894	Limite	Limite	Discontinuité	Discontinuité
+L0895	Limite	Limite	Edge city	Edge city
+L0896	Limite	Limite	Fortification	Fortification
+L0897	Limite	Limite	Frontière	Limite
+L0898	Limite	Limite	Territoire	Territoire
+L0899	Limite	Limite	Urban sprawl	Urban sprawl
+L0900	Limite	Limite	Zwischenstadt	Zwischenstadt
+L0901	Littoral	Littoral	Environnement	Environnement
+L0902	Littoral	Littoral	Marina	Marina
+L0903	Littoral	Littoral	SCOT	SCOT
+L0904	Littoral	Littoral	Station	Station
+L0905	Littoral	Littoral	Tourisme	Tourisme
+L0906	Locataire	Locataire	HLM	HLM
+L0907	Locataire	Locataire	Logement	Logement
+L0908	Locataire	Locataire	Loyer	Loyer
+L0909	Logement	Logement	Abri	Abri
+L0910	Logement	Logement	Domicile	Domicile
+L0911	Logement	Logement	Étalement urbain	Étalement urbain
+L0912	Logement	Logement	Immeuble	Immeuble
+L0913	Logement	Logement	Maison	Maison
+L0914	Logement	Logement	Politique de la ville	Politique de la ville
+L0915	Loi d'orientation foncière (LOF)	LOF	Documents d'urbanisme	Document d'urbanisme
+L0916	Loi d'orientation foncière (LOF)	LOF	Maîtrise foncière	Maîtrise foncière
+L0917	Loi d'orientation foncière (LOF)	LOF	Planification urbaine	Planification urbaine
+L0918	Loi d'orientation foncière (LOF)	LOF	POS	POS
+L0919	Loi d'orientation foncière (LOF)	LOF	ZAC	ZAC
+L0920	Loi d'orientation foncière (LOF)	LOF	Taxe locale d'équipement	Taxe locale d'équipement
+L0921	Loi d'orientation pour la ville (LOV)	LOV	Documents d'urbanisme	Document d'urbanisme
+L0922	Loi d'orientation pour la ville (LOV)	LOV	Habitat	Habitat
+L0923	Loi d'orientation pour la ville (LOV)	LOV	Maîtrise foncière	Maîtrise foncière
+L0924	Loi d'orientation pour la ville (LOV)	LOV	Politique de la ville	Politique de la ville
+L0925	Loi d'orientation pour la ville (LOV)	LOV	Urbanisme	Urbanisme
+L0926	Loi rang-taille	Loi rang-taille	Croissance urbaine	Croissance urbaine
+L0927	Loi rang-taille	Loi rang-taille	Hiérarchie urbaine	Hiérarchie
+L0928	Loi rang-taille	Loi rang-taille	Système de villes	Système de villes
+L0929	Loi rang-taille	Loi rang-taille	Théorie des lieux centraux	Théorie des lieux centraux
+L0930	Loi solidarité et renouvellement urbain (SRU)	SRU	Documents d'urbanisme	Document d'urbanisme
+L0931	Loi solidarité et renouvellement urbain (SRU)	SRU	Enquête publique	Enquête publique
+L0932	Loi solidarité et renouvellement urbain (SRU)	SRU	Logement social	Logement
+L0933	Loi solidarité et renouvellement urbain (SRU)	SRU	P.L.U.	PLU
+L0934	Loi solidarité et renouvellement urbain (SRU)	SRU	P.O.S.	POS
+L0935	Loi solidarité et renouvellement urbain (SRU)	SRU	Schéma directeur	Schéma directeur
+L0936	Loi solidarité et renouvellement urbain (SRU)	SRU	Schéma de cohérence territoriale	SCOT
+L0937	Loisir	Loisir	Fête	Fête
+L0938	Loisir	Loisir	Nuit	Nuit
+L0939	Loisir	Loisir	Tourisme	Tourisme
+L0940	Lotissement	Lotissement	Habitat	Habitat
+L0941	Lotissement	Lotissement	Logement	Logement
+L0942	Lotissement	Lotissement	Propriétaire	Propriétaire
+L0943	Lotissement	Lotissement	Parcellaire	Parcellaire
+L0944	Lotissement	Lotissement	Communauté fermée	Communauté fermée
+L0945	Lotissement	Lotissement	Ville nouvelle	Ville nouvelle
+L0946	Lowry	Lowry	Base économique	Base économique
+L0947	Lowry	Lowry	Modèle	Modèle
+L0948	Loyer	Loyer	HLM	HLM
+L0949	Loyer	Loyer	Locataire	Locataire
+L0950	Loyer	Loyer	Logement	Logement
+L0951	Loyer	Loyer	Prix	Prix foncier et immobilier
+L0952	Lutte urbaine	Lutte urbaine	Bidonville	Bidonville
+L0953	Lutte urbaine	Lutte urbaine	Expropriation	Expropriation
+L0954	Lutte urbaine	Lutte urbaine	Guérilla urbaine	Guérilla urbaine
+L0955	Lutte urbaine	Lutte urbaine	Organisation non gouvernementale	ONG
+L0956	Lutte urbaine	Lutte urbaine	Politique de la ville	Politique de la ville
+L0957	Mail	Mail	Arbre	Arbre
+L0958	Mail	Mail	Espace vert	Espace vert
+L0959	Mail	Mail	Promenade	Promenade
+L0960	Maire	Maire	Municipalité	Municipalité
+L0961	Maire	Maire	Pouvoir	Maire
+L0962	Maire	Maire	Urbanisme	Urbanisme
+L0963	Maison	Maison	Domicile	Domicile
+L0964	Maison	Maison	Immeuble	Immeuble
+L0965	Maison	Maison	Logement	Logement
+L0966	Maître d'oeuvre	Maître d'oeuvre	Architecte	Architecture urbaine
+L0967	Maître d'oeuvre	Maître d'oeuvre	Génie urbain	Génie urbain
+L0968	Maître d'oeuvre	Maître d'oeuvre	Maître d'ouvrage	Maître d'ouvrage
+L0969	Maître d'ouvrage	Maître d'ouvrage	Commune	Commune
+L0970	Maître d'ouvrage	Maître d'ouvrage	Maître d'oeuvre	Maître d'oeuvre
+L0971	Maîtrise foncière	Maîtrise foncière	Développement durable	Développement durable
+L0972	Maîtrise foncière	Maîtrise foncière	Planification urbaine	Planification urbaine
+L0973	Maîtrise foncière	Maîtrise foncière	Prix fonciers et immobiliers	Prix foncier et immobilier
+L0974	Marché	Marché	Aire de marché	Aire de marché
+L0975	Marché	Marché	Bourse	Bourse
+L0976	Marché	Marché	Commerce	Commerce
+L0977	Marché	Marché	Fonction urbaine	Fonction urbaine
+L0978	Marché	Marché	Halle	Halle
+L0979	Marge, marginalité	Marge, marginalité	Bourgeois	Bourgeois
+L0980	Marge, marginalité	Marge, marginalité	Drogue	Drogue
+L0981	Marge, marginalité	Marge, marginalité	Exclusion	Exclusion
+L0982	Marge, marginalité	Marge, marginalité	Identité	Identité
+L0983	Marge, marginalité	Marge, marginalité	Limite	Limite
+L0984	Marina	Marina	Loisirs	Loisir
+L0985	Marina	Marina	Tourisme	Tourisme
+L0986	Marketing urbain	Marketing urbain	Gouvernance	Gouvernance urbaine
+L0987	Marketing urbain	Marketing urbain	Image	Image
+L0988	Marketing urbain	Marketing urbain	Identité	Identité
+L0989	Marketing urbain	Marketing urbain	Projet urbain	Projet urbain
+L0990	Médina	Médina	Forme	Forme urbaine
+L0991	Médina	Médina	Urbanisme	Urbanisme
+L0992	Mégalopole	Mégalopole	Banane bleue	Banane bleue
+L0993	Mégalopole	Mégalopole	Conurbation	Conurbation
+L0994	Mégapole	Mégapole	Agglomération	Agglomération
+L0995	Mégapole	Mégapole	Ville	Ville
+L0996	Mémoire	Mémoire	Identité	Identité
+L0997	Mémoire	Mémoire	Monument	Monument
+L0998	Mémoire	Mémoire	Musée	Musée
+L0999	Mémoire	Mémoire	Patrimoine	Patrimoine urbain
+L1000	Métabolisme urbain	Métabolisme urbain	Artificialisation	Artificialisation
+L1001	Métabolisme urbain	Métabolisme urbain	Écologie	Écologie
+L1002	Métapole	Métapole	Étalement urbain	Étalement urbain
+L1003	Métapole	Métapole	Métropolisation	Métropolisation
+L1004	Métropole	Métropole	Mégapole	Mégapole
+L1005	Métropole	Métropole	Métropole d'équilibre	Métropole d'équilibre
+L1006	Métropole	Métropole	Métropolisation	Métropolisation
+L1007	Métropole	Métropole	Ville	Ville
+L1008	Métropole d'équilibre	Métropole d'équilibre	Aménagement du territoire	Aménagement du territoire
+L1009	Métropole d'équilibre	Métropole d'équilibre	DATAR	DATAR
+L1010	Métropole d'équilibre	Métropole d'équilibre	Économie urbaine	Économie urbaine
+L1011	Métropole d'équilibre	Métropole d'équilibre	Métropole	Métropole
+L1012	Métropole d'équilibre	Métropole d'équilibre	Système de villes	Système de villes
+L1013	Métropole d'équilibre	Métropole d'équilibre	Théorie des lieux centraux	Théorie des lieux centraux
+L1014	Métropolisation	Métropolisation	Contraction espace-temps	Contraction de l'espace-temps
+L1015	Métropolisation	Métropolisation	Étalement urbain	Étalement urbain
+L1016	Métropolisation	Métropolisation	Hiérarchie	Hiérarchie
+L1017	Métropolisation	Métropolisation	Métapole	Métapole
+L1018	Métropolitain	Métropolitain	Multi-modalité	Multimodalité
+L1019	Métropolitain	Métropolitain	Transport	Transport
+L1020	Métropolitain	Métropolitain	Urbanisme souterrain	Urbanisme souterrain
+L1021	Migration	Migration	Étalement urbain	Étalement urbain
+L1022	Migration	Migration	Flux	Flux
+L1023	Migration	Migration	Mobilité	Mobilité
+L1024	Migration	Migration	Péri-urbanisation	Péri-urbanisation
+L1025	Migration	Migration	Transition urbaine	Transition urbaine
+L1026	Migration	Migration	Urbanisation	Urbanisation
+L1027	Minorité	Minorité	Exclusion	Exclusion
+L1028	Minorité	Minorité	Population	Population
+L1029	Minorité	Minorité	Ségrégation	Ségrégation
+L1030	Mitage	Mitage	Environnement	Environnement
+L1031	Mitage	Mitage	Étalement urbain	Étalement urbain
+L1032	Mitage	Mitage	Lotissement	Lotissement
+L1033	Mitage	Mitage	Rurbain	Rurbanisation
+L1034	Mitage	Mitage	Péri-urbanisation	Péri-urbanisation
+L1035	Mobilier urbain	Mobilier urbain	Paysage	Paysage
+L1036	Mobilier urbain	Mobilier urbain	Trottoir	Trottoir
+L1037	Mobilité	Mobilité	Circulation	Circulation
+L1038	Mobilité	Mobilité	Communication	Communication
+L1039	Mobilité	Mobilité	Flux	Flux
+L1040	Mobilité	Mobilité	Navette	Navette
+L1041	Mobilité	Mobilité	Loisir	Loisir
+L1042	Mobilité	Mobilité	Migration	Migration
+L1043	Mobilité	Mobilité	Nuit	Nuit
+L1044	Mobilité	Mobilité	Transport	Transport
+L1045	Mobilité	Mobilité	Télécommunication	Télécommunication
+L1046	Mobilité	Mobilité	Vitesse	Vitesse
+L1047	Modèle	Modèle	Informatique	Informatique
+L1048	Modèle	Modèle	Lowry	Lowry
+L1049	Modèle	Modèle	Représentation	Représentation
+L1050	Modèle	Modèle	Système d'information géographique	Système d'information géographique
+L1051	Monument	Monument	Identité	Identité
+L1052	Monument	Monument	Mémoire	Mémoire
+L1053	Monument	Monument	Patrimoine	Patrimoine urbain
+L1054	Monument	Monument	Urbanisme	Urbanisme
+L1055	Monument	Monument	Tourisme	Tourisme
+L1056	Monument historique	Monument historique	Identité	Identité
+L1057	Monument historique	Monument historique	Mémoire	Mémoire
+L1058	Monument historique	Monument historique	Monument	Monument
+L1059	Monument historique	Monument historique	Patrimoine	Patrimoine urbain
+L1060	Monument historique	Monument historique	Réhabilitation	Réhabilitation
+L1061	Monument historique	Monument historique	Restauration	Restauration
+L1062	Monument historique	Monument historique	ZPPAUP	ZPPAUP
+L1063	Morphologie	Morphologie	Forme	Forme urbaine
+L1064	Morphologie	Morphologie	Histoire de l'urbanisme	Histoire de l'urbanisme
+L1065	Morphologie	Morphologie	Parcellaire	Parcellaire
+L1066	Morphologie	Morphologie	Tissu urbain	Tissu urbain
+L1067	Morphologie	Morphologie	Urbanisme	Urbanisme
+L1068	Moyen de transport	Moyen de transport	Automobile	Automobile
+L1069	Moyen de transport	Moyen de transport	Bicyclette	Bicyclette
+L1070	Moyen de transport	Moyen de transport	Contraction de l'espace-temps	Contraction de l'espace-temps
+L1071	Moyen de transport	Moyen de transport	Innovation	Innovation
+L1072	Moyen de transport	Moyen de transport	Métro	Métropolitain
+L1073	Moyen de transport	Moyen de transport	Réseaux	Réseau
+L1074	Moyen de transport	Moyen de transport	Tramway	Tramway
+L1075	Multimodalité	Multimodalité	Transport	Transport
+L1076	Municipalité	Municipalité	Commune	Commune
+L1077	Municipalité	Municipalité	Maire	Maire
+L1078	Mur	Mur	Affiche	Affiche
+L1079	Mur	Mur	Art urbain	Art urbain
+L1080	Mur	Mur	Graffiti	Graffiti
+L1081	Mur	Mur	Paysage	Paysage
+L1082	Mur	Mur	Rue	Rue
+L1083	Musée	Musée	Art urbain	Art urbain
+L1084	Musée	Musée	Centralité	Centralité
+L1085	Musée	Musée	Loisir	Loisir
+L1086	Musée	Musée	Tourisme	Tourisme
+L1087	Nature	Nature	Environnement	Environnement
+L1088	Nature	Nature	Espace vert	Espace vert
+L1089	Nature	Nature	Jardin	Jardin public
+L1090	Nature	Nature	Parc	Parc
+L1091	Nature	Nature	POS	POS
+L1092	Nature	Nature	Promenade	Promenade
+L1093	Nature	Nature	ZPPAUP	ZPPAUP
+L1094	Navette	Navette	Circulation	Circulation
+L1095	Navette	Navette	Migration	Migration
+L1096	Navette	Navette	Mobilité	Mobilité
+L1097	Navette	Navette	Transport	Transport
+L1098	New urbanism	New urbanism	Urbanisme	Urbanisme
+L1099	Nimby	Nimby	Exclusion	Exclusion
+L1100	Nimby	Nimby	Nuisance	Nuisance
+L1101	Nimby	Nimby	Ségrégation	Ségrégation
+L1102	Nuisance	Nuisance	Ambiance urbaine	Ambiance urbaine
+L1103	Nuisance	Nuisance	Bruit	Bruit
+L1104	Nuisance	Nuisance	Environnement	Environnement
+L1105	Nuisance	Nuisance	Odeur	Odeur
+L1106	Nuisance	Nuisance	Pollution	Pollution atmosphérique
+L1107	Nuit	Nuit	Ambiance urbaine	Ambiance urbaine
+L1108	Nuit	Nuit	Temporalité	Temporalité
+L1109	Odeur	Odeur	Ambiance urbaine	Ambiance urbaine
+L1110	Odeur	Odeur	Couleur	Couleur
+L1111	Odeur	Odeur	Sens	Sens
+L1112	Opinion publique	Opinion publique	Advocacy planning	Advocacy planning
+L1113	Opinion publique	Opinion publique	Citoyenneté	Citoyenneté
+L1114	Opinion publique	Opinion publique	Concertation	Concertation
+L1115	Opinion publique	Opinion publique	Participation	Participation
+L1116	Opinion publique	Opinion publique	Politique de la ville	Politique de la ville
+L1117	Ordures ménagères	NA	Déchets ménagers	NA
+L1118	Organisation non gouvernementale (ONG)	ONG	Acteur	Acteur
+L1119	Organisation non gouvernementale (ONG)	ONG	Association	Association
+L1120	Organisation non gouvernementale (ONG)	ONG	Politique de la ville	Politique de la ville
+L1121	Organisation non gouvernementale (ONG)	ONG	Usager	Usager
+L1122	Pact-arim	Pact-arim	Exclusion	Exclusion
+L1123	Pact-arim	Pact-arim	Logement	Logement
+L1124	Pact-arim	Pact-arim	Luttes urbaines	Lutte urbaine
+L1125	Pact-arim	Pact-arim	Pauvreté	Pauvreté
+L1126	Pact-arim	Pact-arim	Réhabilitation	Réhabilitation
+L1127	Palais	Palais	Capitale	Capitale
+L1128	Palais	Palais	Monument	Monument
+L1129	Palace	Palace	Tourisme	Tourisme
+L1130	Palace	Palace	Capitale	Capitale
+L1131	Parc	Parc	Promenade	Promenade
+L1132	Parc	Parc	Loisir	Loisir
+L1133	Parc	Parc	Paysage	Paysage
+L1134	Parc de loisirs	Parc de loisirs	Loisir	Loisir
+L1135	Parc de loisirs	Parc de loisirs	Tourisme	Tourisme
+L1136	Parcs (système de)	Parcs (système de)	Espace vert	Espace vert
+L1137	Parcs (système de)	Parcs (système de)	Paysage	Paysage
+L1138	Parcellaire	Parcellaire	Cadastre	Cadastre
+L1139	Parcellaire	Parcellaire	Propriétaire	Propriétaire
+L1140	Parcellaire	Parcellaire	Urbanisme	Urbanisme
+L1141	Paroisse	Paroisse	Commune	Commune
+L1142	Paroisse	Paroisse	Lieu de culte	Lieu de culte
+L1143	Paroisse	Paroisse	Quartier	Quartier
+L1144	Participation	Participation	Enquête publique	Enquête publique
+L1145	Participation	Participation	Gouvernance	Gouvernance urbaine
+L1146	Participation	Participation	Planification urbaine	Planification urbaine
+L1147	Participation	Participation	Projet urbain	Projet urbain
+L1148	Parvis	Parvis	Cathédrale	Cathédrale
+L1149	Parvis	Parvis	Piéton	Piéton
+L1150	Parvis	Parvis	Place	Place
+L1151	Passage	Passage	Centre commercial	Commerce
+L1152	Passage	Passage	Espace public	Espace public
+L1153	Passage	Passage	Rue-galerie	Rue-galerie
+L1154	Pâté	Pâté	Îlot	Îlot
+L1155	Patente	Patente	Budget	Budget
+L1156	Patente	Patente	Fiscalité	Fiscalité
+L1157	Patente	Patente	Taxe professionnelle	Taxe professionnelle
+L1158	Patrimoine urbain	Patrimoine urbain	Mémoire	Mémoire
+L1159	Patrimoine urbain	Patrimoine urbain	Monument	Monument
+L1160	Patrimoine urbain	Patrimoine urbain	Monument historique	Monument historique
+L1161	Patrimoine urbain	Patrimoine urbain	Municipalité	Municipalité
+L1162	Patrimoine urbain	Patrimoine urbain	Secteur sauvegardé	Patrimoine urbain
+L1163	Patrimoine urbain	Patrimoine urbain	ZPPAUP	ZPPAUP
+L1164	Pauvreté	Pauvreté	Bidonville	Bidonville
+L1165	Pauvreté	Pauvreté	DSQ	DSQ
+L1166	Pauvreté	Pauvreté	Exclusion	Exclusion
+L1167	Pauvreté	Pauvreté	Politique de la ville	Politique de la ville
+L1168	Pauvreté	Pauvreté	Zones urbaines sensibles	Zone urbaine sensible
+L1169	Pavage	Pavage	Rue	Rue
+L1170	Pavage	Pavage	Voirie	Voirie
+L1171	Paysage	Paysage	Environnement	Environnement
+L1172	Paysage	Paysage	Urbanisme	Urbanisme
+L1173	Paysage	Paysage	Ambiance urbaine	Ambiance urbaine
+L1174	Paysage urbain	Paysage urbain	Ambiance urbaine	Ambiance urbaine
+L1175	Paysage urbain	Paysage urbain	Patrimoine urbain	Patrimoine urbain
+L1176	Péage	Péage	Autoroute	Autoroute
+L1177	Péage	Péage	Bouchon	Bouchon
+L1178	Péage	Péage	Circulation	Circulation
+L1179	Péage	Péage	Infrastructure	Infrastructures
+L1180	Péage	Péage	Stationnement	Stationnement
+L1181	Péage	Péage	Voirie	Voirie
+L1182	Pèlerinage	Pèlerinage	Cathédrale	Cathédrale
+L1183	Pèlerinage	Pèlerinage	Lieu de culte	Lieu de culte
+L1184	Pèlerinage	Pèlerinage	Fonction urbaine	Fonction urbaine
+L1185	Pénétrante	Pénétrante	Autoroute	Autoroute
+L1186	Pénétrante	Pénétrante	Voirie	Voirie
+L1187	Pénétrante	Pénétrante	Rocade	Rocade
+L1188	Perception	Perception	Image	Image
+L1189	Perception	Perception	Représentation	Représentation
+L1190	Périphérie	Périphérie	Centre	Centre
+L1191	Périphérie	Périphérie	Centralité	Centralité
+L1192	Périphérie	Périphérie	Champ urbain	Champ urbain
+L1193	Périphérie	Périphérie	Contraction de l'espace-temps	Contraction de l'espace-temps
+L1194	Périphérie	Périphérie	Gradient	Gradient
+L1195	Péri-urbanisation	Péri-urbanisation	Aire urbaine	Aire urbaine
+L1196	Péri-urbanisation	Péri-urbanisation	Étalement urbain	Étalement urbain
+L1197	Péri-urbanisation	Péri-urbanisation	Rurbanisation	Rurbanisation
+L1198	Péri-urbanisation	Péri-urbanisation	Urbanisation	Urbanisation
+L1199	Permis de construire	Permis de construire	Architecture	Architecture urbaine
+L1200	Permis de construire	Permis de construire	Droit de l'urbanisme	Droit de l'urbanisme
+L1201	Permis de construire	Permis de construire	Maire	Maire
+L1202	Permis de construire	Permis de construire	Permis de démolir	Permis de démolir
+L1203	Permis de construire	Permis de construire	PLU	PLU
+L1204	Permis de construire	Permis de construire	Urbanisme	Urbanisme
+L1205	Permis de démolir	Permis de démolir	Architecture	Architecture urbaine
+L1206	Permis de démolir	Permis de démolir	Permis de construire	Permis de construire
+L1207	Permis de démolir	Permis de démolir	POS	POS
+L1208	Permis de démolir	Permis de démolir	Urbanisme	Urbanisme
+L1209	Philosophie de l'urbain	Philosophie de l'urbain	Ville	Ville
+L1210	Philosophie de l'urbain	Philosophie de l'urbain	Urbain	Urbain (l')
+L1211	Philosophie de l'urbain	Philosophie de l'urbain	Urbanisme	Urbanisme
+L1212	Piéton	Piéton	Allée	Allée
+L1213	Piéton	Piéton	Banc public	Banc public
+L1214	Piéton	Piéton	Commerce	Commerce
+L1215	Piéton	Piéton	Flâneur	Flâneur
+L1216	Piéton	Piéton	Promenade	Promenade
+L1217	Piéton	Piéton	Mail	Mail
+L1218	Piéton	Piéton	Passage	Passage
+L1219	Piéton	Piéton	Rue	Rue
+L1220	Piéton	Piéton	Rue galerie	Rue-galerie
+L1221	Piéton	Piéton	Tourisme	Tourisme
+L1222	Piéton	Piéton	Trottoir	Trottoir
+L1223	Piste cyclable	Piste cyclable	Bicyclette	Bicyclette
+L1224	Piste cyclable	Piste cyclable	Voirie	Voirie
+L1225	Place	Place	Agora	Agora
+L1226	Place	Place	Carrefour	Carrefour
+L1227	Place	Place	Circulation	Circulation
+L1228	Place	Place	Citadinité	Citadinité
+L1229	Place	Place	Composition urbaine	Place
+L1230	Place	Place	Espace public	Espace public
+L1231	Place	Place	Forum	Forum
+L1232	Place	Place	Piéton	Piéton
+L1233	Place	Place	Rue	Rue
+L1234	Plan	Plan	Carte	Carte
+L1235	Plan	Plan	Échelle	Échelle
+L1236	Plan	Plan	Forme	Forme urbaine
+L1237	Plan	Plan	Image	Image
+L1238	Plan	Plan	Planification urbaine	Planification urbaine
+L1239	Plan	Plan	PDU	PDU
+L1240	Plan	Plan	PLU	PLU
+L1241	Plan	Plan	POS	POS
+L1242	Plan	Plan	SDAU	Schéma directeur
+L1243	Plan	Plan	SCOT	SCOT
+L1244	Plan de déplacement urbain (P.D.U.)	PDU	Transport	Transport
+L1245	Plan d'occupation des sols (P.O.S.)	POS	Coefficient d'occupation des sols	COS
+L1246	Plan d'occupation des sols (P.O.S.)	POS	PLU	PLU
+L1247	Plan d'occupation des sols (P.O.S.)	POS	Document d'urbanisme	Document d'urbanisme
+L1248	Plan d'occupation des sols (P.O.S.)	POS	Droit de l'urbanisme	Droit de l'urbanisme
+L1249	Plan d'occupation des sols (P.O.S.)	POS	Maire	Maire
+L1250	Plan d'occupation des sols (P.O.S.)	POS	Permis de construire	Permis de construire
+L1251	Plan d'occupation des sols (P.O.S.)	POS	Planification urbaine	Planification urbaine
+L1252	Plan d'occupation des sols (P.O.S.)	POS	Schéma directeur	Schéma directeur
+L1253	Plan d'occupation des sols (P.O.S.)	POS	Urbanisme	Urbanisme
+L1254	Plan d'occupation des sols (P.O.S.)	POS	SCOT	SCOT
+L1255	Plan local d'urbanisme (P.L.U.)	PLU	Document d'urbanisme	Document d'urbanisme
+L1256	Plan local d'urbanisme (P.L.U.)	PLU	Loi SRU	SRU
+L1257	Plan local d'urbanisme (P.L.U.)	PLU	Planification urbaine	Planification urbaine
+L1258	Plan local d'urbanisme (P.L.U.)	PLU	PLU	PLU
+L1259	Plan local d'urbanisme (P.L.U.)	PLU	SCOT	SCOT
+L1260	Plan local d'urbanisme (P.L.U.)	PLU	Urbanisme	Urbanisme
+L1261	Plan-masse	Plan-masse	Aménagement	Aménagement du territoire
+L1262	Plan-masse	Plan-masse	Architecture	Architecture urbaine
+L1263	Plan-masse	Plan-masse	Permis de construire	Permis de construire
+L1264	Planification urbaine	Planification urbaine	Maîtrise foncière	Maîtrise foncière
+L1265	Planification urbaine	Planification urbaine	Plan	Plan
+L1266	Planification urbaine	Planification urbaine	Projet urbain	Projet urbain
+L1267	Planification urbaine	Planification urbaine	Urbanisme	Urbanisme
+L1268	Plus-value d'urbanisation	Plus-value d'urbanisation	Fiscalité	Fiscalité
+L1269	Plus-value d'urbanisation	Plus-value d'urbanisation	Prix	Prix foncier et immobilier
+L1270	Plus-value d'urbanisation	Plus-value d'urbanisation	Rente	Rente
+L1271	Plus-value d'urbanisation	Plus-value d'urbanisation	Spéculation	Spéculation
+L1272	Polarisation	Polarisation	Flux	Flux
+L1273	Polarisation	Polarisation	Gradient	Gradient
+L1274	Polarisation	Polarisation	Modèle gravitaire	Modèle
+L1275	Polarisation	Polarisation	Ségrégation	Ségrégation
+L1276	Pôle	Pôle	Centre	Centre
+L1277	Pôle	Pôle	Croissance	Croissance urbaine
+L1278	Police	Police	Commune	Commune
+L1279	Police	Police	Insécurité	Insécurité
+L1280	Police	Police	Maire	Maire
+L1281	Police	Police	Service	Services
+L1282	Politique de la ville	Politique de la ville	DSQ	DSQ
+L1283	Politique de la ville	Politique de la ville	Participation	Participation
+L1284	Politique de la ville	Politique de la ville	Zones franches	Zone franche urbaine
+L1285	Politique de la ville	Politique de la ville	Zones urbaines sensibles	Zone urbaine sensible
+L1286	Pollution atmosphérique	Pollution atmosphérique	Air	Air
+L1287	Pollution atmosphérique	Pollution atmosphérique	Environnement	Environnement
+L1288	Pollution atmosphérique	Pollution atmosphérique	Hygiènisme	Hygiénisme
+L1289	Pollution atmosphérique	Pollution atmosphérique	Nuisance	Nuisance
+L1290	Population	Population	Croissance urbaine	Croissance urbaine
+L1291	Population	Population	Fonction urbaine	Fonction urbaine
+L1292	Population	Population	Habitant	Habitant
+L1293	Population	Population	Migration	Migration
+L1294	Port	Port	Fonction urbaine	Fonction urbaine
+L1295	Porte	Porte	Barrière	Barrière
+L1296	Porte	Porte	Circulation	Circulation
+L1297	Porte	Porte	Fortification	Fortification
+L1298	Porte	Porte	Situation	Situation
+L1299	Portée	Portée	Champ urbain	Champ urbain
+L1300	Portée	Portée	Contraction de l'espace-temps	Contraction de l'espace-temps
+L1301	Portée	Portée	Distance	Distance
+L1302	Portée	Portée	Théorie des lieux centraux	Théorie des lieux centraux
+L1303	Post-modernisme	Post-modernisme	Architecture	Architecture urbaine
+L1304	Post-modernisme	Post-modernisme	Modernité	Post-modernisme
+L1305	Poubelle	Poubelle	Environnement	Environnement
+L1306	Poubelle	Poubelle	Déchet ménager	Déchet ménager
+L1307	Préemption (droit de)	Préemption (droit de)	Expropriation	Expropriation
+L1308	Préemption (droit de)	Préemption (droit de)	Logement	Logement
+L1309	Préemption (droit de)	Préemption (droit de)	Maîtrise foncière	Maîtrise foncière
+L1310	Préemption (droit de)	Préemption (droit de)	PLU	PLU
+L1311	Préemption (droit de)	Préemption (droit de)	Propriété	Propriétaire
+L1312	Préemption (droit de)	Préemption (droit de)	Urbanisme	Urbanisme
+L1313	Prix foncier et immobilier	Prix foncier et immobilier	Gradient	Gradient
+L1314	Prix foncier et immobilier	Prix foncier et immobilier	Plus-value	Plus-value d'urbanisation
+L1315	Prix foncier et immobilier	Prix foncier et immobilier	Rente	Rente
+L1316	Prix foncier et immobilier	Prix foncier et immobilier	Spéculation	Spéculation
+L1317	Prix foncier et immobilier	Prix foncier et immobilier	Temporalité	Temporalité
+L1318	Programmation	Programmation	Advocacy planning	Advocacy planning
+L1319	Programmation	Programmation	Participation	Participation
+L1320	Programmation	Programmation	Planification urbaine	Planification urbaine
+L1321	Programmation	Programmation	Politique de la ville	Politique de la ville
+L1322	Programmation	Programmation	Projet urbain	Projet urbain
+L1323	Progrès	Progrès	Développement durable	Développement durable
+L1324	Progrès	Progrès	Urbanisme	Urbanisme
+L1325	Projet urbain	Projet urbain	Advocacy planning	Advocacy planning
+L1326	Projet urbain	Projet urbain	Concertation	Concertation
+L1327	Projet urbain	Projet urbain	Urbanisme	Urbanisme
+L1328	Promenade	Promenade	Allée	Allée
+L1329	Promenade	Promenade	Flâneur	Flâneur
+L1330	Promenade	Promenade	Mail	Mail
+L1331	Promenade	Promenade	Parc	Parc
+L1332	Promenade	Promenade	Piéton	Piéton
+L1333	Promenade	Promenade	Promenadologie	Promenadologie
+L1334	Promenade	Promenade	Rue	Rue
+L1335	Promenadologie	Promenadologie	Flâneur	Flâneur
+L1336	Promenadologie	Promenadologie	Mail	Mail
+L1337	Promenadologie	Promenadologie	Promenade	Promenade
+L1338	Promoteur	Promoteur	BTP	BTP
+L1339	Promoteur	Promoteur	Logement	Logement
+L1340	Promoteur	Promoteur	Lotissement	Lotissement
+L1341	Promoteur	Promoteur	HLM	HLM
+L1342	Propriétaire	Propriétaire	Locataire	Locataire
+L1343	Propriétaire	Propriétaire	Logement	Logement
+L1344	Publicité	Publicité	Mobilier urbain	Mobilier urbain
+L1345	Publicité	Publicité	Paysage	Paysage
+L1346	Publicité	Publicité	Commerce	Commerce
+L1347	Quartier	Quartier	Division spatiale	Division spatiale
+L1348	Quartier	Quartier	Ségrégation urbaine	Ségrégation
+L1349	Quartier	Quartier	Voisinage	Voisinage
+L1350	Radiale	Radiale	Voirie	Voirie
+L1351	Radiale	Radiale	Pénétrante	Pénétrante
+L1352	Radioconcentrique	Radioconcentrique	Voirie	Voirie
+L1353	Radioconcentrique	Radioconcentrique	Pénétrante	Pénétrante
+L1354	Radioconcentrique	Radioconcentrique	Radiale	Radiale
+L1355	Radioconcentrique	Radioconcentrique	Rocade	Rocade
+L1356	Ramassage des ordures ménagères	NA	Déchets ménagers	NA
+L1357	Rationalisme	Rationalisme	Charte d'Athènes	Charte d'Athènes
+L1358	Rationalisme	Rationalisme	Utopie	Utopie
+L1359	Rationalisme	Rationalisme	Science-fiction	Science-fiction
+L1360	Rationalisme	Rationalisme	Zonage	Zone, zonage, zoning
+L1361	Réhabilitation	Réhabilitation	Façadisme	Façadisme
+L1362	Réhabilitation	Réhabilitation	Gentrification	Gentrification
+L1363	Réhabilitation	Réhabilitation	Patrimoine	Patrimoine urbain
+L1364	Réhabilitation	Réhabilitation	Promotion	Promoteur
+L1365	Réhabilitation	Réhabilitation	Rénovation	Rénovation
+L1366	Réhabilitation	Réhabilitation	Restauration	Restauration
+L1367	Réhabilitation	Réhabilitation	ZPPAUP	ZPPAUP
+L1368	Rénovation	Rénovation	Patrimoine	Patrimoine urbain
+L1369	Rénovation	Rénovation	Promotion	Promoteur
+L1370	Rénovation	Rénovation	Réhabilitation	Réhabilitation
+L1371	Rénovation	Rénovation	Requalification	Requalification
+L1372	Rénovation	Rénovation	Restauration	Restauration
+L1373	Rente	Rente	Gentrification	Gentrification
+L1374	Rente	Rente	Maîtrise foncière	Maîtrise foncière
+L1375	Rente	Rente	Prix	Prix foncier et immobilier
+L1376	Rente	Rente	Plus value	Plus-value d'urbanisation
+L1377	Rente	Rente	Réserve foncière	Réserve foncière
+L1378	Rente	Rente	Spéculation	Spéculation
+L1379	Représentation	Représentation	Cartographie	Carte
+L1380	Représentation	Représentation	Identité	Identité
+L1381	Représentation	Représentation	Image	Image
+L1382	Représentation	Représentation	Imaginaire	Imaginaire urbain
+L1383	Requalification	Requalification	Réhabilitation	Réhabilitation
+L1384	Requalification	Requalification	Rénovation	Rénovation
+L1385	Réseau	Réseau	Flux	Flux
+L1386	Réseau	Réseau	Mobilité	Mobilité
+L1387	Réseau	Réseau	Transport	Transport
+L1388	Réseaux techniques	Réseaux techniques	Infrastructures	Infrastructures
+L1389	Réseaux techniques	Réseaux techniques	Ingénieur	Ingénieur
+L1390	Réseaux techniques	Réseaux techniques	Opérateur	Réseaux techniques
+L1391	Réseaux techniques	Réseaux techniques	Réseau	Réseau
+L1392	Réseaux techniques	Réseaux techniques	Sous-sol	Réseaux techniques
+L1393	Réseaux techniques	Réseaux techniques	Viabilisation	Viabilité
+L1394	Réseau urbain, réseau de villes	Réseau urbain	Aménagement du territoire	Aménagement du territoire
+L1395	Réseau urbain, réseau de villes	Réseau urbain	DATAR	DATAR
+L1396	Réseau urbain, réseau de villes	Réseau urbain	Théorie des lieux centraux	Théorie des lieux centraux
+L1397	Réseau urbain, réseau de villes	Réseau urbain	Systèmes de villes	Système de villes
+L1398	Réserve foncière	Réserve foncière	Maîtrise foncière	Maîtrise foncière
+L1399	Réserve foncière	Réserve foncière	Planification urbaine	Planification urbaine
+L1400	Résidence	Résidence	Domicile	Domicile
+L1401	Résidence	Résidence	Logement	Logement
+L1402	Résidence	Résidence	Maison	Maison
+L1403	Restauration	Restauration	Association foncière urbaine	AFU
+L1404	Restauration	Restauration	Patrimoine	Patrimoine urbain
+L1405	Restauration	Restauration	Promotion	Promoteur
+L1406	Restauration	Restauration	Réhabilitation	Réhabilitation
+L1407	Restauration	Restauration	Rénovation	Rénovation
+L1408	Risque	Risque	Environnement	Environnement
+L1409	Risque	Risque	Incendie	Incendie
+L1410	Risque	Risque	Sécurité	Sécurité
+L1411	Risque	Risque	Vulnérabilité	Vulnérabilité
+L1412	Rocade	Rocade	Autoroute	Autoroute
+L1413	Rocade	Rocade	Voirie	Voirie
+L1414	Route	Route	Réseau	Réseau
+L1415	Route	Route	Transport	Transport
+L1416	Route	Route	Voie	Voie
+L1417	Route	Route	Voirie	Voirie
+L1418	Rue	Rue	Allée	Allée
+L1419	Rue	Rue	Axe	Axe
+L1420	Rue	Rue	Carrefour	Carrefour
+L1421	Rue	Rue	Plan	Plan
+L1422	Rue	Rue	Voirie	Voirie
+L1423	Rue-galerie	Rue-galerie	Espace public	Espace public
+L1424	Rue-galerie	Rue-galerie	Labyrinthe	Labyrinthe
+L1425	Rue-galerie	Rue-galerie	Rue	Rue
+L1426	Rue-galerie	Rue-galerie	Utopie urbaine	Utopie urbaine
+L1427	Rue piétonne	NA	Piéton	NA
+L1428	Ruine	Ruine	Guerre	Guerre
+L1429	Ruine	Ruine	Identité	Identité
+L1430	Ruine	Ruine	Monument	Monument
+L1431	Ruine	Ruine	Patrimoine	Patrimoine urbain
+L1432	Rurbanisation	Rurbanisation	Étalement urbain	Étalement urbain
+L1433	Rurbanisation	Rurbanisation	Péri-urbain	Péri-urbanisation
+L1434	Rurbanisation	Rurbanisation	Urbanisation	Urbanisation
+L1435	Rythmanalyse	Rythmanalyse	Nuit	Nuit
+L1436	Rythmanalyse	Rythmanalyse	Temporalité	Temporalité
+L1437	Salle de sport	Salle de sport	Infrastructure	Infrastructures
+L1438	Salle de sport	Salle de sport	Services	Services
+L1439	Schéma de cohérence territoriale (SCOT)	SCOT	Document d'urbanisme	Document d'urbanisme
+L1440	Schéma de cohérence territoriale (SCOT)	SCOT	Schéma directeur	Schéma directeur
+L1441	Schéma de cohérence territoriale (SCOT)	SCOT	Plan local d'urbanisme	PLU
+L1442	Schéma directeur	Schéma directeur	Décentralisation	Décentralisation
+L1443	Schéma directeur	Schéma directeur	Documents d'urbanisme	Document d'urbanisme
+L1444	Schéma directeur	Schéma directeur	P.O.S.	POS
+L1445	Schéma directeur	Schéma directeur	Urbanisme	Urbanisme
+L1446	Science-fiction	Science-fiction	Imaginaire urbain	Imaginaire urbain
+L1447	Sécurité	Sécurité	Citadinité	Citadinité
+L1448	Sécurité	Sécurité	Insécurité	Insécurité
+L1449	Sécurité	Sécurité	Police	Police
+L1450	Sécurité	Sécurité	Risque	Risque
+L1451	Sécurité	Sécurité	Urbanité	Urbanité
+L1452	Ségrégation	Ségrégation	Banlieue	Banlieue
+L1453	Ségrégation	Ségrégation	Communauté fermée	Communauté fermée
+L1454	Ségrégation	Ségrégation	Exclusion	Exclusion
+L1455	Ségrégation	Ségrégation	Ghetto	Ghetto
+L1456	Ségrégation	Ségrégation	Droit à la ville	Droit à la ville
+L1457	Ségrégation	Ségrégation	Politique de la ville	Politique de la ville
+L1458	Sens	Sens	Ambiance	Ambiance urbaine
+L1459	Sens	Sens	Bruit	Bruit
+L1460	Sens	Sens	Charme	Charme
+L1461	Sens	Sens	Couleur	Couleur
+L1462	Sens	Sens	Odeur	Odeur
+L1463	Services	Services	Base économique	Base économique
+L1464	Services	Services	Centralité	Centralité
+L1465	Services	Services	Fonction urbaine	Fonction urbaine
+L1466	Servitude	Servitude	P.O.S.	POS
+L1467	Servitude	Servitude	Propriété	Propriétaire
+L1468	Servitude	Servitude	Urbanisme	Urbanisme
+L1469	Site	Site	Paysage	Paysage
+L1470	Site	Site	Aménagement	Aménagement du territoire
+L1471	Site	Site	Situation	Situation
+L1472	Situation	Situation	Accessibilité	Accessibilité
+L1473	Situation	Situation	Carrefour	Carrefour
+L1474	Situation	Situation	Fonction urbaine	Fonction urbaine
+L1475	Situation	Situation	Porte	Porte
+L1476	Situation	Situation	Site	Site
+L1477	Situation	Situation	Système de villes	Système de villes
+L1478	Situationnisme	Situationnisme	Dérive urbaine	Dérive
+L1479	Situationnisme	Situationnisme	Marge	Marge, marginalité
+L1480	Société d'économie mixte d'aménagement urbain	Société d'économie mixte d'aménagement urbain	Aménagement du territoire	Aménagement du territoire
+L1481	Société d'économie mixte d'aménagement urbain	Société d'économie mixte d'aménagement urbain	Logement	Logement
+L1482	Société d'économie mixte d'aménagement urbain	Société d'économie mixte d'aménagement urbain	Société d'économie mixte locale	Société d'économie mixte locale
+L1483	Société d'économie mixte locale	Société d'économie mixte locale	Aménagement du territoire	Aménagement du territoire
+L1484	Société d'économie mixte locale	Société d'économie mixte locale	Commune	Commune
+L1485	Société d'économie mixte locale	Société d'économie mixte locale	Économie	Économie urbaine
+L1486	Sociologie urbaine	Sociologie urbaine	Acteur	Acteur
+L1487	Sociologie urbaine	Sociologie urbaine	Anthropologie urbaine	Anthropologie urbaine
+L1488	Sociologie urbaine	Sociologie urbaine	Habitant	Habitant
+L1489	Sociologie urbaine	Sociologie urbaine	Locataire	Locataire
+L1490	Sociologie urbaine	Sociologie urbaine	Participation	Participation
+L1491	Sociologie urbaine	Sociologie urbaine	Usager	Usager
+L1492	Sociologie urbaine	Sociologie urbaine	Voisinage	Voisinage
+L1493	Spéculation	Spéculation	Maîtrise foncière	Maîtrise foncière
+L1494	Spéculation	Spéculation	Prix fonciers et immobiliers	Prix foncier et immobilier
+L1495	Spéculation	Spéculation	Plus-value	Plus-value d'urbanisation
+L1496	Spéculation	Spéculation	Rente	Rente
+L1497	Squat	Squat	Logement	Logement
+L1498	Squat	Squat	Exclusion	Exclusion
+L1499	Squat	Squat	Taudis	Taudis
+L1500	Stade	Stade	Loisir	Loisir
+L1501	Stade	Stade	Infrastructure	Infrastructures
+L1502	Station	Station	Fonction urbaine	Fonction urbaine
+L1503	Station	Station	Littoral	Littoral
+L1504	Station	Station	Loisir	Loisir
+L1505	Station	Station	Lotissement	Lotissement
+L1506	Station	Station	Spécialisation	Station
+L1507	Station	Station	Tourisme	Tourisme
+L1508	Stationnement	Stationnement	Automobile	Automobile
+L1509	Stationnement	Stationnement	Circulation	Circulation
+L1510	Stationnement	Stationnement	Mobilité	Mobilité
+L1511	Stationnement	Stationnement	Péage urbain	Péage
+L1512	Stationnement	Stationnement	Transport	Transport
+L1513	Système d'information géographique	Système d'information géographique	Adressage	Adressage
+L1514	Système d'information géographique	Système d'information géographique	Carte	Carte
+L1515	Système d'information géographique	Système d'information géographique	Plan	Plan
+L1516	Système d'information géographique	Système d'information géographique	Informatique	Informatique
+L1517	Système d'information géographique	Système d'information géographique	Information	Information
+L1518	Système de villes	Système de villes	Réseau urbain	Réseau urbain
+L1519	Système de villes	Système de villes	Fonction urbaine	Fonction urbaine
+L1520	Système de villes	Système de villes	Hiérarchie	Hiérarchie
+L1521	Système de villes	Système de villes	Innovation	Innovation
+L1522	Système de villes	Système de villes	Loi rang-taille	Loi rang-taille
+L1523	Système de villes	Système de villes	Métropolisation	Métropolisation
+L1524	Système de villes	Système de villes	Théorie des lieux centraux	Théorie des lieux centraux
+L1525	Système de villes	Système de villes	Situation	Situation
+L1526	Système de villes	Système de villes	Spécialisation	Système de villes
+L1527	Tag	Tag	Art urbain	Art urbain
+L1528	Tag	Tag	Civilité	Civilité
+L1529	Taudis	Taudis	Abri	Abri
+L1530	Taudis	Taudis	Bidonville	Bidonville
+L1531	Taudis	Taudis	Insalubrité	Insalubrité
+L1532	Taudis	Taudis	Logement	Logement
+L1533	Taudis	Taudis	Lutte urbaine	Lutte urbaine
+L1534	Taudis	Taudis	Politique de la ville	Politique de la ville
+L1535	Taudis	Taudis	Squat	Squat
+L1536	Taxe locale d'équipement	Taxe locale d'équipement	Fiscalité	Fiscalité
+L1537	Taxe locale d'équipement	Taxe locale d'équipement	Infrastructures	Infrastructures
+L1538	Taxe locale d'équipement	Taxe locale d'équipement	Planification urbaine	Planification urbaine
+L1539	Taxe professionnelle	Taxe professionnelle	Budget	Budget
+L1540	Taxe professionnelle	Taxe professionnelle	Communauté d'agglomération	Communauté d'agglomération
+L1541	Taxe professionnelle	Taxe professionnelle	Fiscalité	Fiscalité
+L1542	Taxe professionnelle	Taxe professionnelle	Patente	Patente
+L1543	Taxi	Taxi	Automobile	Automobile
+L1544	Taxi	Taxi	Circulation	Circulation
+L1545	Taxi	Taxi	Transport	Transport
+L1546	Tchatche	Tchatche	Gang	Tchatche
+L1547	Tchatche	Tchatche	Marge	Marge, marginalité
+L1548	Technopole	Technopole	Base économique	Base économique
+L1549	Technopole	Technopole	Fonction urbaine	Fonction urbaine
+L1550	Technopole	Technopole	Spécialisation	Technopole
+L1551	Technopôle	Technopôle	Fonction urbaine	Fonction urbaine
+L1552	Technopôle	Technopôle	Pôle	Pôle
+L1553	Technopôle	Technopôle	Technopole	Technopole
+L1554	Télécommunication	Télécommunication	Communication	Communication
+L1555	Télécommunication	Télécommunication	Distance	Distance
+L1556	Télécommunication	Télécommunication	Réseau	Réseau
+L1557	Télécommunication	Télécommunication	Temporalité	Temporalité
+L1558	Temporalité	Temporalité	Contraction espace-temps	Contraction de l'espace-temps
+L1559	Temporalité	Temporalité	Fonction urbaine	Fonction urbaine
+L1560	Temporalité	Temporalité	Histoire urbaine	Histoire urbaine
+L1561	Temporalité	Temporalité	Innovation	Innovation
+L1562	Temporalité	Temporalité	Mobilité	Mobilité
+L1563	Temporalité	Temporalité	Nuit	Nuit
+L1564	Temporalité	Temporalité	Transition urbaine	Transition urbaine
+L1565	Terrain	Terrain	Prix fonciers	Prix foncier et immobilier
+L1566	Terrain	Terrain	Économie urbaine	Économie urbaine
+L1567	Terrain	Terrain	Propriétaire	Propriétaire
+L1568	Territoire	Territoire	Anthropologie de l'espace	Anthropologie de l'espace
+L1569	Territoire	Territoire	Citadinité	Citadinité
+L1570	Territoire	Territoire	Citoyen	Citoyenneté
+L1571	Territoire	Territoire	Droit à la ville	Droit à la ville
+L1572	Territoire	Territoire	Communauté fermée	Communauté fermée
+L1573	Territoire	Territoire	Exclusion	Exclusion
+L1574	Territoire	Territoire	Ghetto	Ghetto
+L1575	Territoire	Territoire	Identité	Identité
+L1576	Territoire	Territoire	Ségrégation	Ségrégation
+L1577	Théorie des lieux centraux	Théorie des lieux centraux	Aire de chalandise	Aire de marché
+L1578	Théorie des lieux centraux	Théorie des lieux centraux	Centralité	Centralité
+L1579	Théorie des lieux centraux	Théorie des lieux centraux	Fonction urbaine	Fonction urbaine
+L1580	Théorie des lieux centraux	Théorie des lieux centraux	Hiérarchie urbaine	Hiérarchie
+L1581	Théorie des lieux centraux	Théorie des lieux centraux	Portée	Portée
+L1582	Thermes	Thermes	Aqueduc	Aqueduc
+L1583	Thermes	Thermes	Confort	Confort
+L1584	Thermes	Thermes	Eau	Eau
+L1585	Thermes	Thermes	Station	Station
+L1586	Tissu urbain	Tissu urbain	Morphologie	Morphologie
+L1587	Tissu urbain	Tissu urbain	Patrimoine urbain	Patrimoine urbain
+L1588	Tissu urbain	Tissu urbain	Rue	Rue
+L1589	Tissu urbain	Tissu urbain	Sitologie	Site
+L1590	Tissu urbain	Tissu urbain	Voirie	Voirie
+L1591	Topoanalyse	Topoanalyse	Imaginaire urbain	Imaginaire urbain
+L1592	Tourisme	Tourisme	Fonction urbaine	Fonction urbaine
+L1593	Tourisme	Tourisme	Parc de loisirs	Parc de loisirs
+L1594	Tourisme	Tourisme	Patrimoine urbain	Patrimoine urbain
+L1595	Tourisme	Tourisme	Services	Services
+L1596	Tourisme	Tourisme	Touriste	Touriste
+L1597	Touriste	Touriste	Musée	Musée
+L1598	Touriste	Touriste	Patrimoine urbain	Patrimoine urbain
+L1599	Touriste	Touriste	Tourisme	Tourisme
+L1600	Township	Township	Ghetto	Ghetto
+L1601	Township	Township	Ségrégation	Ségrégation
+L1602	Township	Township	Lotissement	Lotissement
+L1603	Tramway	Tramway	Circulation	Circulation
+L1604	Tramway	Tramway	Flux	Flux
+L1605	Tramway	Tramway	Rue	Rue
+L1606	Tramway	Tramway	Moyen de transport	Moyen de transport
+L1607	Transition urbaine	Transition urbaine	Civilisation urbaine	Civilisation urbaine
+L1608	Transition urbaine	Transition urbaine	Habitat	Habitat
+L1609	Transition urbaine	Transition urbaine	Ville	Ville
+L1610	Transition urbaine	Transition urbaine	Urbanisation	Urbanisation
+L1611	Transport	Transport	Aéroport	Aéroport
+L1612	Transport	Transport	Accessibilité	Accessibilité
+L1613	Transport	Transport	Automobile	Automobile
+L1614	Transport	Transport	Bicyclette	Bicyclette
+L1615	Transport	Transport	Centralité	Centralité
+L1616	Transport	Transport	Gare	Gare
+L1617	Transport	Transport	Mobilité	Mobilité
+L1618	Transport	Transport	Multimodalité	Multimodalité
+L1619	Transport	Transport	Réseau	Réseau
+L1620	Transport	Transport	Vitesse	Vitesse
+L1621	Transport	Transport	Voie	Voie
+L1622	Trottoir	Trottoir	Banc public	Banc public
+L1623	Trottoir	Trottoir	Confort	Confort
+L1624	Trottoir	Trottoir	Mobilier urbain	Mobilier urbain
+L1625	Trottoir	Trottoir	Rue	Rue
+L1626	Unité de voisinage	Unité de voisinage	Planification urbaine	Planification urbaine
+L1627	Unité de voisinage	Unité de voisinage	Grand ensemble	Grand ensemble
+L1628	Unité urbaine	Unité urbaine	Agglomération	Agglomération
+L1629	Unité urbaine	Unité urbaine	Commune	Commune
+L1630	Université	Université	Fonction urbaine	Fonction urbaine
+L1631	Université	Université	Urbanisme	Urbanisme
+L1632	Urbain (l')	Urbain (l')	Civilisation urbaine	Civilisation urbaine
+L1633	Urbain (l')	Urbain (l')	Ville	Ville
+L1634	Urbain (l')	Urbain (l')	Urbanisation	Urbanisation
+L1635	Urbanisation	Urbanisation	Civilisation urbaine	Civilisation urbaine
+L1636	Urbanisation	Urbanisation	Croissance urbaine	Croissance urbaine
+L1637	Urbanisation	Urbanisation	Transition urbaine	Transition urbaine
+L1638	Urbanisation	Urbanisation	Ville	Ville
+L1639	Urbanisation	Urbanisation	Urbain	Urbain (l')
+L1640	Urbanisme	Urbanisme	Advocacy planning	Advocacy planning
+L1641	Urbanisme	Urbanisme	Art urbain	Art urbain
+L1642	Urbanisme	Urbanisme	Charte d'Athènes	Charte d'Athènes
+L1643	Urbanisme	Urbanisme	CAUE	CAUE
+L1644	Urbanisme	Urbanisme	Droit à l'urbanisme	Droit de l'urbanisme
+L1645	Urbanisme	Urbanisme	Gouvernance urbaine	Gouvernance urbaine
+L1646	Urbanisme	Urbanisme	Hausmannisation	Haussmannisation
+L1647	Urbanisme	Urbanisme	Histoire de l'urbanisme	Histoire de l'urbanisme
+L1648	Urbanisme	Urbanisme	Politique de la ville	Politique de la ville
+L1649	Urbanisme*	Urbanisme*	NA	Urbanisme*
+L1650	Urbanisme commercial	Urbanisme commercial	Commerce	Commerce
+L1651	Urbanisme commercial	Urbanisme commercial	Grand magasin	Grand magasin
+L1652	Urbanisme commercial	Urbanisme commercial	Passage	Passage
+L1653	Urbanisme commercial	Urbanisme commercial	Urbanisme	Urbanisme
+L1654	Urbanisme de dalle	Urbanisme de dalle	Espace public	Espace public
+L1655	Urbanisme de dalle	Urbanisme de dalle	Espace urbain	Espace urbain
+L1656	Urbanisme de dalle	Urbanisme de dalle	Grand ensemble	Grand ensemble
+L1657	Urbanisme de dalle	Urbanisme de dalle	Limite	Limite
+L1658	Urbanisme de dalle	Urbanisme de dalle	Urbanisme	Urbanisme
+L1659	Urbanisme souterrain	Urbanisme souterrain	Science-fiction	Science-fiction
+L1660	Urbanisme souterrain	Urbanisme souterrain	Urbanisme	Urbanisme
+L1661	Urbaniste	Urbaniste	Acteur	Acteur
+L1662	Urbaniste	Urbaniste	Architecture	Architecture urbaine
+L1663	Urbaniste	Urbaniste	Ingénieur	Ingénieur
+L1664	Urbaniste	Urbaniste	Politique de la ville	Politique de la ville
+L1665	Urbaniste	Urbaniste	Urbanisme	Urbanisme
+L1666	Urbanité	Urbanité	Civilité	Civilité
+L1667	Urbanité	Urbanité	Civilisation urbaine	Civilisation urbaine
+L1668	Urbanité	Urbanité	Citadinité	Citadinité
+L1669	Urbanologie	Urbanologie	Espace urbain	Espace urbain
+L1670	Urbanologie	Urbanologie	Urbanisme	Urbanisme
+L1671	Urban sprawl	Urban sprawl	Città diffusa	Città diffusa
+L1672	Urban sprawl	Urban sprawl	Edge city	Edge city
+L1673	Urban sprawl	Urban sprawl	Étalement urbain	Étalement urbain
+L1674	Urban sprawl	Urban sprawl	Limite	Limite
+L1675	Urban sprawl	Urban sprawl	Zwischenstadt	Zwischenstadt
+L1676	Urbicide	Urbicide	Civilité	Civilité
+L1677	Urbicide	Urbicide	Urbanité	Urbanité
+L1678	Usager	Usager	Acteur	Acteur
+L1679	Usager	Usager	Habitant	Habitant
+L1680	Usager	Usager	Sociologie urbaine	Sociologie urbaine
+L1681	Utopie	Utopie	Imaginaire	Imaginaire urbain
+L1682	Utopie	Utopie	Identité	Identité
+L1683	Utopie urbaine	Utopie urbaine	Imaginaire	Imaginaire urbain
+L1684	Utopie urbaine	Utopie urbaine	Projet urbain	Projet urbain
+L1685	Utopie urbaine	Utopie urbaine	Utopie	Utopie
+L1686	Vernaculaire	Vernaculaire	Architecture	Architecture urbaine
+L1687	Vernaculaire	Vernaculaire	Couleur	Couleur
+L1688	Vernaculaire	Vernaculaire	Identité	Identité
+L1689	Vernaculaire	Vernaculaire	Patrimoine	Patrimoine urbain
+L1690	Viabilité	Viabilité	Génie urbain	Génie urbain
+L1691	Viabilité	Viabilité	Permis de construire	Permis de construire
+L1692	Viabilité	Viabilité	Réseaux	Réseau
+L1693	Viabilité	Viabilité	Voirie	Voirie
+L1694	Village urbain	Village urbain	Communauté fermée	Communauté fermée
+L1695	Village urbain	Village urbain	Urbanisme	Urbanisme
+L1696	Ville	Ville	Agglomération	Agglomération
+L1697	Ville	Ville	Échelle	Échelle
+L1698	Ville	Ville	Habitat	Habitat
+L1699	Ville	Ville	Hiérarchie urbaine	Hiérarchie
+L1700	Ville	Ville	Histoire des villes	Histoire des villes
+L1701	Ville	Ville	Mégapole	Mégapole
+L1702	Ville	Ville	Métropole	Métropole
+L1703	Ville	Ville	Système de villes	Système de villes
+L1704	Ville	Ville	Urbanisation	Urbanisation
+L1705	Ville durable	Ville durable	Écologie	Écologie
+L1706	Ville durable	Ville durable	Environnement	Environnement
+L1707	Ville durable	Ville durable	Développement durable	Développement durable
+L1708	Ville durable	Ville durable	Métabolisme urbain	Métabolisme urbain
+L1709	Ville émergente	Ville émergente	Étalement urbain	Étalement urbain
+L1710	Ville émergente	Ville émergente	Urbain	Urbain (l')
+L1711	Ville globale ou ville mondiale	Ville globale	Réseau	Réseau
+L1712	Ville globale ou ville mondiale	Ville globale	Système de villes	Système de villes
+L1713	Ville globale ou ville mondiale	Ville globale	Ville internationale	Ville internationale
+L1714	Ville internationale	Ville internationale	Fonction urbaine	Fonction urbaine
+L1715	Ville nouvelle	Ville nouvelle	Aménagement du territoire	Aménagement du territoire
+L1716	Ville nouvelle	Ville nouvelle	Bastide	Bastide
+L1717	Ville nouvelle	Ville nouvelle	Capitale	Capitale
+L1718	Ville nouvelle	Ville nouvelle	Transport	Transport
+L1719	Ville nouvelle	Ville nouvelle	Urbanisme	Urbanisme
+L1720	Ville satellite	Ville satellite	Banlieue	Banlieue
+L1721	Ville satellite	Ville satellite	Ville nouvelle	Ville nouvelle
+L1722	Violence urbaine	Violence urbaine	Insécurité	Insécurité
+L1723	Violence urbaine	Violence urbaine	Police	Police
+L1724	Vitesse	Vitesse	Circulation	Circulation
+L1725	Vitesse	Vitesse	Champ urbain	Champ urbain
+L1726	Vitesse	Vitesse	Contraction espace-temps	Contraction de l'espace-temps
+L1727	Vitesse	Vitesse	Espace urbain	Espace urbain
+L1728	Vitesse	Vitesse	Mobilité	Mobilité
+L1729	Vitesse	Vitesse	Transport	Transport
+L1730	Vitrine	Vitrine	Centre commercial	Commerce
+L1731	Vitrine	Vitrine	Commerce	Commerce
+L1732	Vitrine	Vitrine	Passage	Passage
+L1733	Vitrine	Vitrine	Rue-galerie	Rue-galerie
+L1734	Vitrine	Vitrine	Urbanisme commercial	Urbanisme commercial
+L1735	Voie	Voie	Voirie	Voirie
+L1736	Voie	Voie	Allée	Allée
+L1737	Voie	Voie	Passage	Passage
+L1738	Voie	Voie	Pénétrante	Pénétrante
+L1739	Voie	Voie	Radiale	Radiale
+L1740	Voie	Voie	Rocade	Rocade
+L1741	Voie	Voie	Rue	Rue
+L1742	Voirie	Voirie	Autoroute	Autoroute
+L1743	Voirie	Voirie	Plan	Plan
+L1744	Voirie	Voirie	Rue	Rue
+L1745	Voirie	Voirie	Voie	Voie
+L1746	Voisinage	Voisinage	Distance	Distance
+L1747	Voisinage	Voisinage	Unité de voisinage	Unité de voisinage
+L1748	Vulnérabilité	Vulnérabilité	Risque	Risque
+L1749	Zone, zonage, zoning	Zone, zonage, zoning	Urbanisme	Urbanisme
+L1750	Zone, zonage, zoning	Zone, zonage, zoning	Division spatiale	Division spatiale
+L1751	Zone à urbaniser par priorité (ZUP)	ZUP	Banlieue	Banlieue
+L1752	Zone à urbaniser par priorité (ZUP)	ZUP	Bidonville	Bidonville
+L1753	Zone à urbaniser par priorité (ZUP)	ZUP	Exclusion	Exclusion
+L1754	Zone à urbaniser par priorité (ZUP)	ZUP	Grand ensemble	Grand ensemble
+L1755	Zone à urbaniser par priorité (ZUP)	ZUP	Ségrégation	Ségrégation
+L1756	Zone à urbaniser par priorité (ZUP)	ZUP	Urbanisme	Urbanisme
+L1757	Zone à urbaniser par priorité (ZUP)	ZUP	ZAC	ZAC
+L1758	Zone d'aménagement concerté (ZAC)	ZAC	POS	POS
+L1759	Zone d'aménagement concerté (ZAC)	ZAC	Urbanisme	Urbanisme
+L1760	Zone d'aménagement concerté (ZAC)	ZAC	ZUP	ZUP
+L1761	Zone franche urbaine	Zone franche urbaine	Politique de la ville	Politique de la ville
+L1762	Zone franche urbaine	Zone franche urbaine	Zone urbaine sensible	Zone urbaine sensible
+L1763	Zone de protection du patrimoine architectural et paysager (ZPPAUP)	ZPPAUP	Patrimoine	Patrimoine urbain
+L1764	Zone de protection du patrimoine architectural et paysager (ZPPAUP)	ZPPAUP	Paysage	Paysage
+L1765	Zone de protection du patrimoine architectural et paysager (ZPPAUP)	ZPPAUP	Urbanisme	Urbanisme
+L1766	Zone urbaine sensible	Zone urbaine sensible	DSQ	DSQ
+L1767	Zone urbaine sensible	Zone urbaine sensible	Discrimination	Discrimination
+L1768	Zone urbaine sensible	Zone urbaine sensible	Exclusion	Exclusion
+L1769	Zone urbaine sensible	Zone urbaine sensible	Pauvreté	Pauvreté
+L1770	Zone urbaine sensible	Zone urbaine sensible	Politique de la ville	Politique de la ville
+L1771	Zone urbaine sensible	Zone urbaine sensible	Zone franche urbaine	Zone franche urbaine
+L1772	Zoo	Zoo	NA	Zoo
+L1773	Zwischenstadt	Zwischenstadt	Città diffusa	Città diffusa
+L1774	Zwischenstadt	Zwischenstadt	Limite	Limite
+L1775	Zwischenstadt	Zwischenstadt	New urbanism	New urbanism
+L1776	Zwischenstadt	Zwischenstadt	Urbain	Urbain (l')
+L1777	Zwischenstadt	Zwischenstadt	Urbanisme	Urbanisme
+L1778	Zwischenstadt	Zwischenstadt	Urban sprawl	Urban sprawl
